@@ -1,0 +1,138 @@
+{
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "key": "quantidade_de_atendimentos",
+      "name": "quantidade de atendimentos",
+      "value": "14",
+      "modified_on": "2023-02-13T14:27:34.303921Z"
+    },
+    {
+      "key": "capacidade_de_atendimento",
+      "name": "Capacidade De Atendimento",
+      "value": "0",
+      "modified_on": "2023-02-13T02:49:24.529166Z"
+    },
+    {
+      "key": "ficha_atual",
+      "name": "Ficha Atual",
+      "value": "0",
+      "modified_on": "2023-02-13T02:49:24.438518Z"
+    },
+    {
+      "key": "quantidade_de_inativos_total",
+      "name": "Quantidade de Inativos Total",
+      "value": "0",
+      "modified_on": "2023-02-13T02:49:24.390064Z"
+    },
+    {
+      "key": "quantidade_de_inativos_atual",
+      "name": "Quantidade de Inativos Atual",
+      "value": "0",
+      "modified_on": "2023-02-13T02:49:24.345056Z"
+    },
+    {
+      "key": "bitly_token",
+      "name": "Bitly Token",
+      "value": "Bearer 913f9ce74fe0f65fd53538a7d9e3b39871de62a1",
+      "modified_on": "2023-02-06T18:32:35.880181Z"
+    },
+    {
+      "key": "api_token_do_projeto",
+      "name": "API Token do Projeto",
+      "value": "fb11c7e9f13df50aa652fdecf03e0a65689f4396",
+      "modified_on": "2022-12-28T20:00:49.373982Z"
+    },
+    {
+      "key": "rocketchat_baseurl",
+      "name": "Rocketchat Baseurl",
+      "value": "rcadmin.ilhasoft.dev",
+      "modified_on": "2021-10-18T14:29:46.412938Z"
+    },
+    {
+      "key": "rocketchat_org_id",
+      "name": "Rocketchat Org Id",
+      "value": "206",
+      "modified_on": "2021-10-18T14:29:30.613235Z"
+    },
+    {
+      "key": "rocketchat_token",
+      "name": "Rocketchat Token",
+      "value": "Basic YXBpa2V5Oi5WMj5jNWZ0LHJOeVt3clk=",
+      "modified_on": "2021-10-18T14:29:13.207137Z"
+    },
+    {
+      "key": "departamento_aleatorio",
+      "name": "departamento_aleatorio",
+      "value": "CEDECA/RO",
+      "modified_on": "2021-09-09T22:43:15.150463Z"
+    },
+    {
+      "key": "baseurl",
+      "name": "Baseurl",
+      "value": "https://podefalar-api.push.al",
+      "modified_on": "2021-02-09T20:49:18.733210Z"
+    },
+    {
+      "key": "avatar10",
+      "name": "Avatar10",
+      "value": "https://push-ilha-sp-push-media-prod.s3.amazonaws.com/media/382/4b74/c62b/4b74c62b-d599-4f3e-95f9-8f5b2278e6a6.jpg",
+      "modified_on": "2021-01-28T18:02:50.940741Z"
+    },
+    {
+      "key": "avatar9",
+      "name": "Avatar9",
+      "value": "https://push-ilha-sp-push-media-prod.s3.amazonaws.com/media/382/6676/352b/6676352b-c5c3-4c6b-809e-058fce620018.jpg",
+      "modified_on": "2021-01-28T18:02:21.622889Z"
+    },
+    {
+      "key": "avatar8",
+      "name": "Avatar8",
+      "value": "https://push-ilha-sp-push-media-prod.s3.amazonaws.com/media/382/b286/755d/b286755d-370d-4e34-a012-4bb2d3903af7.jpg",
+      "modified_on": "2021-01-28T18:01:25.704440Z"
+    },
+    {
+      "key": "avatar7",
+      "name": "Avatar7",
+      "value": "https://push-ilha-sp-push-media-prod.s3.amazonaws.com/media/382/17fa/d108/17fad108-55bf-49e7-98f7-97347074fbf6.jpg",
+      "modified_on": "2021-01-28T18:00:54.799260Z"
+    },
+    {
+      "key": "avatar6",
+      "name": "Avatar6",
+      "value": "https://push-ilha-sp-push-media-prod.s3.amazonaws.com/media/382/7281/9e86/72819e86-919b-4b62-85f7-08e50ac0e099.jpg",
+      "modified_on": "2021-01-28T18:00:23.615834Z"
+    },
+    {
+      "key": "avatar5",
+      "name": "Avatar5",
+      "value": "https://push-ilha-sp-push-media-prod.s3.amazonaws.com/media/382/9a26/f431/9a26f431-ccdc-437b-a08b-e53bf779c785.jpg",
+      "modified_on": "2021-01-28T17:57:40.925876Z"
+    },
+    {
+      "key": "avatar4",
+      "name": "Avatar4",
+      "value": "https://push-ilha-sp-push-media-prod.s3.amazonaws.com/media/382/8ce4/c577/8ce4c577-b523-4779-a77a-5d096bf62910.jpg",
+      "modified_on": "2021-01-28T17:57:21.173145Z"
+    },
+    {
+      "key": "avatar3",
+      "name": "Avatar3",
+      "value": "https://push-ilha-sp-push-media-prod.s3.amazonaws.com/media/382/f4ba/745b/f4ba745b-eb49-4688-b0e2-c9406ec860ce.jpg",
+      "modified_on": "2021-01-28T17:57:04.867082Z"
+    },
+    {
+      "key": "avatar2",
+      "name": "Avatar2",
+      "value": "https://push-ilha-sp-push-media-prod.s3.amazonaws.com/media/382/dd3a/3e3a/dd3a3e3a-c942-4ff9-aeaa-c5d0323b9361.jpg",
+      "modified_on": "2021-01-28T17:43:03.483854Z"
+    },
+    {
+      "key": "avatar1",
+      "name": "Avatar1",
+      "value": "https://push-ilha-sp-push-media-prod.s3.amazonaws.com/media/382/dca7/c21a/dca7c21a-a5d4-442a-aed5-b1406d432745.jpg",
+      "modified_on": "2021-01-28T17:42:01.635762Z"
+    }
+  ]
+}
