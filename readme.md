@@ -1,6 +1,6 @@
 # What is this repository?
 
-    This repository contains files that constitute the Beta Pilot, Nepal, Pode Falar and U-Matter projects, which is separated into two folders. The 'Workspace' folder includes specifications, configurations, and the base that forms the flows of the project's components. The 'AI' folder provides information about the Artificial Intelligence utilized, along with its datasets for Sentiment Analysis and Bad Language Identification.
+    This repository contains files that constitute the Beta Pilot, Nepal, Pode Falar and U-Matter projects, which is separated into two folders. The 'Workspace' folder includes specifications, configurations, and the base that forms the flows of the project's components. The 'AI' folder provides information about the Artificial Intelligence utilized, along with its datasets for each of them.
 
 ## All files are in JSON. What is JSON?
     JSON stands for JavaScript Object Notation and it's a lightweight format for storing and transporting data. JSON is "self-describing" and easy to understand.
