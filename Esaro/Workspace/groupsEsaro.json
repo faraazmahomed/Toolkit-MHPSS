@@ -1,0 +1,55 @@
+{
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "uuid": "eee3259e-8b33-4263-9bf0-29ef459b68f4",
+      "name": "Talk to counselour",
+      "query": null,
+      "status": "ready",
+      "count": 12
+    },
+    {
+      "uuid": "d59cdf71-b3d2-4af6-b05b-ed6da23cc07a",
+      "name": "mhpss testers",
+      "query": null,
+      "status": "ready",
+      "count": 57
+    },
+    {
+      "uuid": "52b1bfdf-624f-4eee-af86-9c25b0182ec5",
+      "name": "New contact",
+      "query": null,
+      "status": "ready",
+      "count": 57
+    },
+    {
+      "uuid": "dcfe11fc-feb9-4de9-90a6-e16ed73b17ca",
+      "name": "Inactive",
+      "query": null,
+      "status": "ready",
+      "count": 8
+    },
+    {
+      "uuid": "ec332396-7059-4025-aaec-380fffcd997b",
+      "name": "CHL",
+      "query": null,
+      "status": "ready",
+      "count": 0
+    },
+    {
+      "uuid": "a3f58e02-3834-4c0f-8984-02b262d61fc6",
+      "name": "Unsatisfied Customers",
+      "query": null,
+      "status": "ready",
+      "count": 0
+    },
+    {
+      "uuid": "dfdfaf28-6293-4453-93fe-3a9674d6f8d6",
+      "name": "Survey Audience",
+      "query": null,
+      "status": "ready",
+      "count": 0
+    }
+  ]
+}

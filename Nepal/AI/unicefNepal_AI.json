@@ -1,0 +1,4990 @@
+{
+  "count": 44,
+  "next": null,
+  "previous": null,
+  "facets": {},
+  "results": [
+    {
+      "id": 149690765,
+      "version_name": "v1",
+      "text": "nothing bye",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999407529830933
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999407529830933
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 0.00002449083694955334
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 0.000013713728549191728
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 0.000013306945220392663
+          },
+          {
+            "name": "stress",
+            "confidence": 0.000005786558176623657
+          },
+          {
+            "name": "emergency",
+            "confidence": 7.591477810819924e-7
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 6.050093475096219e-7
+          },
+          {
+            "name": "counselor",
+            "confidence": 3.068354885726876e-7
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 1.4520418289976078e-7
+          },
+          {
+            "name": "menu",
+            "confidence": 1.1522627119120443e-7
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "nothing bye",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999407529830933,
+          "is_default": true
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 0.00002449083694955334,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 0.000013713728549191728,
+          "is_default": false
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 0.000013306945220392663,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 0.000005786558176623657,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 7.591477810819924e-7,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 6.050093475096219e-7,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 3.068354885726876e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 1.4520418289976078e-7,
+          "is_default": false
+        },
+        {
+          "intent": "menu",
+          "confidence": 1.1522627119120443e-7,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T18:28:49.907423+00:00"
+    },
+    {
+      "id": 149690710,
+      "version_name": "v1",
+      "text": "good night bot",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999998211860657
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999998211860657
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 1.451446536293588e-7
+          },
+          {
+            "name": "stress",
+            "confidence": 5.6576407558850406e-8
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 1.972093599533764e-8
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 6.924746998038245e-9
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 4.011897036804157e-9
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 2.1549496909134547e-10
+          },
+          {
+            "name": "counselor",
+            "confidence": 2.0908332010183273e-10
+          },
+          {
+            "name": "emergency",
+            "confidence": 3.6572966877201907e-11
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 2.769310822325899e-11
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "good night bot",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999998211860657,
+          "is_default": true
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 1.451446536293588e-7,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 5.6576407558850406e-8,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 1.972093599533764e-8,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 6.924746998038245e-9,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 4.011897036804157e-9,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 2.1549496909134547e-10,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 2.0908332010183273e-10,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 3.6572966877201907e-11,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 2.769310822325899e-11,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T18:28:38.435019+00:00"
+    },
+    {
+      "id": 149690661,
+      "version_name": "v1",
+      "text": "nothing bye",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999407529830933
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999407529830933
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 0.00002449083694955334
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 0.000013713728549191728
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 0.000013306945220392663
+          },
+          {
+            "name": "stress",
+            "confidence": 0.000005786558176623657
+          },
+          {
+            "name": "emergency",
+            "confidence": 7.591477810819924e-7
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 6.050093475096219e-7
+          },
+          {
+            "name": "counselor",
+            "confidence": 3.068354885726876e-7
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 1.4520418289976078e-7
+          },
+          {
+            "name": "menu",
+            "confidence": 1.1522627119120443e-7
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "nothing bye",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999407529830933,
+          "is_default": true
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 0.00002449083694955334,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 0.000013713728549191728,
+          "is_default": false
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 0.000013306945220392663,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 0.000005786558176623657,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 7.591477810819924e-7,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 6.050093475096219e-7,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 3.068354885726876e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 1.4520418289976078e-7,
+          "is_default": false
+        },
+        {
+          "intent": "menu",
+          "confidence": 1.1522627119120443e-7,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T18:28:26.360033+00:00"
+    },
+    {
+      "id": 149690355,
+      "version_name": "v1",
+      "text": "good morning bot",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999988079071045
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999988079071045
+          },
+          {
+            "name": "stress",
+            "confidence": 6.74465582051198e-7
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 3.843975378003961e-7
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 1.0227628877146344e-7
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 6.577709399380183e-8
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 1.7403912977442815e-8
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 9.071076667588329e-10
+          },
+          {
+            "name": "counselor",
+            "confidence": 6.589970791281985e-10
+          },
+          {
+            "name": "emergency",
+            "confidence": 3.3274649702264014e-10
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 2.673601617875221e-10
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "good morning bot",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999988079071045,
+          "is_default": true
+        },
+        {
+          "intent": "stress",
+          "confidence": 6.74465582051198e-7,
+          "is_default": false
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 3.843975378003961e-7,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 1.0227628877146344e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 6.577709399380183e-8,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 1.7403912977442815e-8,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 9.071076667588329e-10,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 6.589970791281985e-10,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 3.3274649702264014e-10,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 2.673601617875221e-10,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T18:27:41.217269+00:00"
+    },
+    {
+      "id": 149689590,
+      "version_name": "v1",
+      "text": "goodbye",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999996423721313
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999996423721313
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 2.1922578241628798e-7
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 9.930376165812049e-8
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 2.6416417497898692e-8
+          },
+          {
+            "name": "stress",
+            "confidence": 2.5979799644915147e-8
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 1.0479183742972964e-8
+          },
+          {
+            "name": "counselor",
+            "confidence": 2.5915793955277877e-9
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 8.553622810048012e-10
+          },
+          {
+            "name": "emergency",
+            "confidence": 4.3771289370830857e-10
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 6.264027491154067e-11
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "goodbye",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999996423721313,
+          "is_default": true
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 2.1922578241628798e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 9.930376165812049e-8,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 2.6416417497898692e-8,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 2.5979799644915147e-8,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 1.0479183742972964e-8,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 2.5915793955277877e-9,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 8.553622810048012e-10,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 4.3771289370830857e-10,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 6.264027491154067e-11,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T18:25:44.100396+00:00"
+    },
+    {
+      "id": 149689494,
+      "version_name": "v1",
+      "text": "heyyy",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999985098838806
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999985098838806
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 0.0000013573969681601739
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 8.276251861616402e-8
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 7.244979371989757e-8
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 2.241442231820656e-8
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 8.168289156174069e-9
+          },
+          {
+            "name": "stress",
+            "confidence": 6.0597686868391065e-9
+          },
+          {
+            "name": "counselor",
+            "confidence": 6.873047686539735e-10
+          },
+          {
+            "name": "emergency",
+            "confidence": 2.7791824397382925e-10
+          },
+          {
+            "name": "menu",
+            "confidence": 1.6328438601220796e-10
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "heyyy",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999985098838806,
+          "is_default": true
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 0.0000013573969681601739,
+          "is_default": false
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 8.276251861616402e-8,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 7.244979371989757e-8,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 2.241442231820656e-8,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 8.168289156174069e-9,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 6.0597686868391065e-9,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 6.873047686539735e-10,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 2.7791824397382925e-10,
+          "is_default": false
+        },
+        {
+          "intent": "menu",
+          "confidence": 1.6328438601220796e-10,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T18:25:32.102713+00:00"
+    },
+    {
+      "id": 149684559,
+      "version_name": "v1",
+      "text": "good afternoon",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999999403953552
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999999403953552
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 5.5480857241718695e-8
+          },
+          {
+            "name": "stress",
+            "confidence": 1.7827535003789308e-8
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 1.183592157616431e-8
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 5.881318987377426e-9
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 1.5072560977102967e-9
+          },
+          {
+            "name": "counselor",
+            "confidence": 2.4497856521144e-10
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 5.5211585303638344e-11
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 5.197787512900565e-12
+          },
+          {
+            "name": "emergency",
+            "confidence": 2.2715941540990547e-12
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "good afternoon",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999999403953552,
+          "is_default": true
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 5.5480857241718695e-8,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 1.7827535003789308e-8,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 1.183592157616431e-8,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 5.881318987377426e-9,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 1.5072560977102967e-9,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 2.4497856521144e-10,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 5.5211585303638344e-11,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 5.197787512900565e-12,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 2.2715941540990547e-12,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T18:12:03.022558+00:00"
+    },
+    {
+      "id": 149682716,
+      "version_name": "v1",
+      "text": "goodbye",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999996423721313
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999996423721313
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 2.1922578241628798e-7
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 9.930376165812049e-8
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 2.6416417497898692e-8
+          },
+          {
+            "name": "stress",
+            "confidence": 2.5979799644915147e-8
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 1.0479183742972964e-8
+          },
+          {
+            "name": "counselor",
+            "confidence": 2.5915793955277877e-9
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 8.553622810048012e-10
+          },
+          {
+            "name": "emergency",
+            "confidence": 4.3771289370830857e-10
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 6.264027491154067e-11
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "goodbye",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999996423721313,
+          "is_default": true
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 2.1922578241628798e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 9.930376165812049e-8,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 2.6416417497898692e-8,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 2.5979799644915147e-8,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 1.0479183742972964e-8,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 2.5915793955277877e-9,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 8.553622810048012e-10,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 4.3771289370830857e-10,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 6.264027491154067e-11,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T18:07:10.608613+00:00"
+    },
+    {
+      "id": 149682568,
+      "version_name": "v1",
+      "text": "hi there",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 1
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 1
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 1.9450323573977357e-9
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 1.87214332925123e-9
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 1.2318348563411519e-9
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 9.592716621042996e-10
+          },
+          {
+            "name": "stress",
+            "confidence": 2.5840418693690026e-10
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 1.6792333148996086e-11
+          },
+          {
+            "name": "counselor",
+            "confidence": 1.6331195076824123e-11
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 1.712966574141106e-12
+          },
+          {
+            "name": "emergency",
+            "confidence": 2.567961576889488e-13
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "hi there",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 1,
+          "is_default": true
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 1.9450323573977357e-9,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 1.87214332925123e-9,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 1.2318348563411519e-9,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 9.592716621042996e-10,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 2.5840418693690026e-10,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 1.6792333148996086e-11,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 1.6331195076824123e-11,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 1.712966574141106e-12,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 2.567961576889488e-13,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T18:06:41.807946+00:00"
+    },
+    {
+      "id": 149681225,
+      "version_name": "v1",
+      "text": "fuck you",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.6015186905860901
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.6015186905860901
+          },
+          {
+            "name": "emergency",
+            "confidence": 0.3818504214286804
+          },
+          {
+            "name": "counselor",
+            "confidence": 0.0048112887889146805
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 0.004557767882943153
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 0.0030310547444969416
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 0.001638080459088087
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 0.0010821801843121648
+          },
+          {
+            "name": "stress",
+            "confidence": 0.0007165503920987248
+          },
+          {
+            "name": "menu",
+            "confidence": 0.0006340111140161753
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 0.00015996575530152768
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "fuck you",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.6015186905860901,
+          "is_default": true
+        },
+        {
+          "intent": "emergency",
+          "confidence": 0.3818504214286804,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 0.0048112887889146805,
+          "is_default": false
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 0.004557767882943153,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 0.0030310547444969416,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 0.001638080459088087,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 0.0010821801843121648,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 0.0007165503920987248,
+          "is_default": false
+        },
+        {
+          "intent": "menu",
+          "confidence": 0.0006340111140161753,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 0.00015996575530152768,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T18:03:05.682093+00:00"
+    },
+    {
+      "id": 149681047,
+      "version_name": "v1",
+      "text": "good morning",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 1
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 1
+          },
+          {
+            "name": "stress",
+            "confidence": 3.5291687794369864e-8
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 1.184190612235625e-8
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 5.902694333315139e-9
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 4.202901138228299e-9
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 9.591435423672579e-10
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 4.4851698743908486e-11
+          },
+          {
+            "name": "counselor",
+            "confidence": 5.1125301908649945e-12
+          },
+          {
+            "name": "emergency",
+            "confidence": 4.610837753271646e-12
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 8.161509662540922e-13
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "good morning",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 1,
+          "is_default": true
+        },
+        {
+          "intent": "stress",
+          "confidence": 3.5291687794369864e-8,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 1.184190612235625e-8,
+          "is_default": false
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 5.902694333315139e-9,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 4.202901138228299e-9,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 9.591435423672579e-10,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 4.4851698743908486e-11,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 5.1125301908649945e-12,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 4.610837753271646e-12,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 8.161509662540922e-13,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T18:02:38.371972+00:00"
+    },
+    {
+      "id": 149680207,
+      "version_name": "v1",
+      "text": "goodbye",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999996423721313
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999996423721313
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 2.1922578241628798e-7
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 9.930376165812049e-8
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 2.6416417497898692e-8
+          },
+          {
+            "name": "stress",
+            "confidence": 2.5979799644915147e-8
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 1.0479183742972964e-8
+          },
+          {
+            "name": "counselor",
+            "confidence": 2.5915793955277877e-9
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 8.553622810048012e-10
+          },
+          {
+            "name": "emergency",
+            "confidence": 4.3771289370830857e-10
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 6.264027491154067e-11
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "goodbye",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999996423721313,
+          "is_default": true
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 2.1922578241628798e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 9.930376165812049e-8,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 2.6416417497898692e-8,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 2.5979799644915147e-8,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 1.0479183742972964e-8,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 2.5915793955277877e-9,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 8.553622810048012e-10,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 4.3771289370830857e-10,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 6.264027491154067e-11,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T18:00:02.208342+00:00"
+    },
+    {
+      "id": 149680116,
+      "version_name": "v1",
+      "text": "goodbye",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999996423721313
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999996423721313
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 2.1922578241628798e-7
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 9.930376165812049e-8
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 2.6416417497898692e-8
+          },
+          {
+            "name": "stress",
+            "confidence": 2.5979799644915147e-8
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 1.0479183742972964e-8
+          },
+          {
+            "name": "counselor",
+            "confidence": 2.5915793955277877e-9
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 8.553622810048012e-10
+          },
+          {
+            "name": "emergency",
+            "confidence": 4.3771289370830857e-10
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 6.264027491154067e-11
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "goodbye",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999996423721313,
+          "is_default": true
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 2.1922578241628798e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 9.930376165812049e-8,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 2.6416417497898692e-8,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 2.5979799644915147e-8,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 1.0479183742972964e-8,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 2.5915793955277877e-9,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 8.553622810048012e-10,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 4.3771289370830857e-10,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 6.264027491154067e-11,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T17:59:49.020045+00:00"
+    },
+    {
+      "id": 149679666,
+      "version_name": "v1",
+      "text": "good night",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 1
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 1
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 3.463265940695237e-8
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 3.42793526897367e-8
+          },
+          {
+            "name": "stress",
+            "confidence": 1.1447550463117295e-8
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 5.893199706008545e-9
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 1.9375419046951947e-9
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 1.227263568548409e-10
+          },
+          {
+            "name": "counselor",
+            "confidence": 7.290432146866976e-11
+          },
+          {
+            "name": "emergency",
+            "confidence": 5.099803565555838e-11
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 2.1370934535913655e-12
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "good night",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 1,
+          "is_default": true
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 3.463265940695237e-8,
+          "is_default": false
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 3.42793526897367e-8,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 1.1447550463117295e-8,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 5.893199706008545e-9,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 1.9375419046951947e-9,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 1.227263568548409e-10,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 7.290432146866976e-11,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 5.099803565555838e-11,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 2.1370934535913655e-12,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T17:58:30.498741+00:00"
+    },
+    {
+      "id": 149679638,
+      "version_name": "v1",
+      "text": "goodbye",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999996423721313
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999996423721313
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 2.1922578241628798e-7
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 9.930376165812049e-8
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 2.6416417497898692e-8
+          },
+          {
+            "name": "stress",
+            "confidence": 2.5979799644915147e-8
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 1.0479183742972964e-8
+          },
+          {
+            "name": "counselor",
+            "confidence": 2.5915793955277877e-9
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 8.553622810048012e-10
+          },
+          {
+            "name": "emergency",
+            "confidence": 4.3771289370830857e-10
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 6.264027491154067e-11
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "goodbye",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999996423721313,
+          "is_default": true
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 2.1922578241628798e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 9.930376165812049e-8,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 2.6416417497898692e-8,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 2.5979799644915147e-8,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 1.0479183742972964e-8,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 2.5915793955277877e-9,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 8.553622810048012e-10,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 4.3771289370830857e-10,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 6.264027491154067e-11,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T17:58:22.749425+00:00"
+    },
+    {
+      "id": 149679535,
+      "version_name": "v1",
+      "text": "good morning",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 1
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 1
+          },
+          {
+            "name": "stress",
+            "confidence": 3.5291687794369864e-8
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 1.184190612235625e-8
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 5.902694333315139e-9
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 4.202901138228299e-9
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 9.591435423672579e-10
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 4.4851698743908486e-11
+          },
+          {
+            "name": "counselor",
+            "confidence": 5.1125301908649945e-12
+          },
+          {
+            "name": "emergency",
+            "confidence": 4.610837753271646e-12
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 8.161509662540922e-13
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "good morning",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 1,
+          "is_default": true
+        },
+        {
+          "intent": "stress",
+          "confidence": 3.5291687794369864e-8,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 1.184190612235625e-8,
+          "is_default": false
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 5.902694333315139e-9,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 4.202901138228299e-9,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 9.591435423672579e-10,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 4.4851698743908486e-11,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 5.1125301908649945e-12,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 4.610837753271646e-12,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 8.161509662540922e-13,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T17:58:04.678652+00:00"
+    },
+    {
+      "id": 149679488,
+      "version_name": "v1",
+      "text": "goodbye",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999996423721313
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999996423721313
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 2.1922578241628798e-7
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 9.930376165812049e-8
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 2.6416417497898692e-8
+          },
+          {
+            "name": "stress",
+            "confidence": 2.5979799644915147e-8
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 1.0479183742972964e-8
+          },
+          {
+            "name": "counselor",
+            "confidence": 2.5915793955277877e-9
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 8.553622810048012e-10
+          },
+          {
+            "name": "emergency",
+            "confidence": 4.3771289370830857e-10
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 6.264027491154067e-11
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "goodbye",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999996423721313,
+          "is_default": true
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 2.1922578241628798e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 9.930376165812049e-8,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 2.6416417497898692e-8,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 2.5979799644915147e-8,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 1.0479183742972964e-8,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 2.5915793955277877e-9,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 8.553622810048012e-10,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 4.3771289370830857e-10,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 6.264027491154067e-11,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T17:57:56.462277+00:00"
+    },
+    {
+      "id": 149678291,
+      "version_name": "v1",
+      "text": "good morning",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 1
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 1
+          },
+          {
+            "name": "stress",
+            "confidence": 3.5291687794369864e-8
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 1.184190612235625e-8
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 5.902694333315139e-9
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 4.202901138228299e-9
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 9.591435423672579e-10
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 4.4851698743908486e-11
+          },
+          {
+            "name": "counselor",
+            "confidence": 5.1125301908649945e-12
+          },
+          {
+            "name": "emergency",
+            "confidence": 4.610837753271646e-12
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 8.161509662540922e-13
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "good morning",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 1,
+          "is_default": true
+        },
+        {
+          "intent": "stress",
+          "confidence": 3.5291687794369864e-8,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 1.184190612235625e-8,
+          "is_default": false
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 5.902694333315139e-9,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 4.202901138228299e-9,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 9.591435423672579e-10,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 4.4851698743908486e-11,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 5.1125301908649945e-12,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 4.610837753271646e-12,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 8.161509662540922e-13,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T17:54:26.618871+00:00"
+    },
+    {
+      "id": 149678234,
+      "version_name": "v1",
+      "text": "goodbye",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999996423721313
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999996423721313
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 2.1922578241628798e-7
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 9.930376165812049e-8
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 2.6416417497898692e-8
+          },
+          {
+            "name": "stress",
+            "confidence": 2.5979799644915147e-8
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 1.0479183742972964e-8
+          },
+          {
+            "name": "counselor",
+            "confidence": 2.5915793955277877e-9
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 8.553622810048012e-10
+          },
+          {
+            "name": "emergency",
+            "confidence": 4.3771289370830857e-10
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 6.264027491154067e-11
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "goodbye",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999996423721313,
+          "is_default": true
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 2.1922578241628798e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 9.930376165812049e-8,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 2.6416417497898692e-8,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 2.5979799644915147e-8,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 1.0479183742972964e-8,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 2.5915793955277877e-9,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 8.553622810048012e-10,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 4.3771289370830857e-10,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 6.264027491154067e-11,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T17:54:19.349076+00:00"
+    },
+    {
+      "id": 149677378,
+      "version_name": "v1",
+      "text": "good afternoon bot",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999996423721313
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999996423721313
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 2.4153206368282554e-7
+          },
+          {
+            "name": "stress",
+            "confidence": 9.301558634433604e-8
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 1.4497715028483071e-8
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 1.4398068515220075e-8
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 1.265297289165801e-8
+          },
+          {
+            "name": "counselor",
+            "confidence": 6.6157690437052e-10
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 2.667837617487123e-10
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 1.4861160912982285e-10
+          },
+          {
+            "name": "emergency",
+            "confidence": 2.022900597031807e-11
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "good afternoon bot",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999996423721313,
+          "is_default": true
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 2.4153206368282554e-7,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 9.301558634433604e-8,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 1.4497715028483071e-8,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 1.4398068515220075e-8,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 1.265297289165801e-8,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 6.6157690437052e-10,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 2.667837617487123e-10,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 1.4861160912982285e-10,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 2.022900597031807e-11,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T17:52:09.705016+00:00"
+    },
+    {
+      "id": 149675959,
+      "version_name": "v1",
+      "text": "schedule appointment",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "counselor",
+          "confidence": 0.9999961853027344
+        },
+        "intent_ranking": [
+          {
+            "name": "counselor",
+            "confidence": 0.9999961853027344
+          },
+          {
+            "name": "menu",
+            "confidence": 0.0000029226298465800937
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 5.842261430188955e-7
+          },
+          {
+            "name": "emergency",
+            "confidence": 1.2094247381355672e-7
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 9.379184007229924e-8
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 6.054373358210796e-8
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 3.815504712179063e-8
+          },
+          {
+            "name": "bias",
+            "confidence": 7.568317528239277e-9
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 1.208204369884669e-10
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 9.535068568045091e-11
+          }
+        ],
+        "entities_list": [
+          "appointment"
+        ],
+        "entities": {
+          "other": [
+            {
+              "entity": "appointment",
+              "start": 9,
+              "end": 20,
+              "value": "appointment",
+              "extractor": "DIETClassifierCustom"
+            }
+          ]
+        },
+        "text": "schedule appointment",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": [
+          "other"
+        ]
+      },
+      "user": 779,
+      "log_intent": [],
+      "created_at": "2023-03-01T17:48:20.467140+00:00"
+    },
+    {
+      "id": 149675132,
+      "version_name": "v1",
+      "text": "hi there",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 1
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 1
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 1.9450323573977357e-9
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 1.87214332925123e-9
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 1.2318348563411519e-9
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 9.592716621042996e-10
+          },
+          {
+            "name": "stress",
+            "confidence": 2.5840418693690026e-10
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 1.6792333148996086e-11
+          },
+          {
+            "name": "counselor",
+            "confidence": 1.6331195076824123e-11
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 1.712966574141106e-12
+          },
+          {
+            "name": "emergency",
+            "confidence": 2.567961576889488e-13
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "hi there",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 1,
+          "is_default": true
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 1.9450323573977357e-9,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 1.87214332925123e-9,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 1.2318348563411519e-9,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 9.592716621042996e-10,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 2.5840418693690026e-10,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 1.6792333148996086e-11,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 1.6331195076824123e-11,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 1.712966574141106e-12,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 2.567961576889488e-13,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T17:46:11.907493+00:00"
+    },
+    {
+      "id": 149674955,
+      "version_name": "v1",
+      "text": "goodbye",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999996423721313
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999996423721313
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 2.1922578241628798e-7
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 9.930376165812049e-8
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 2.6416417497898692e-8
+          },
+          {
+            "name": "stress",
+            "confidence": 2.5979799644915147e-8
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 1.0479183742972964e-8
+          },
+          {
+            "name": "counselor",
+            "confidence": 2.5915793955277877e-9
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 8.553622810048012e-10
+          },
+          {
+            "name": "emergency",
+            "confidence": 4.3771289370830857e-10
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 6.264027491154067e-11
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "goodbye",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999996423721313,
+          "is_default": true
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 2.1922578241628798e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 9.930376165812049e-8,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 2.6416417497898692e-8,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 2.5979799644915147e-8,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 1.0479183742972964e-8,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 2.5915793955277877e-9,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 8.553622810048012e-10,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 4.3771289370830857e-10,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 6.264027491154067e-11,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T17:45:39.811903+00:00"
+    },
+    {
+      "id": 149674439,
+      "version_name": "v1",
+      "text": "good morning",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 1
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 1
+          },
+          {
+            "name": "stress",
+            "confidence": 3.5291687794369864e-8
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 1.184190612235625e-8
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 5.902694333315139e-9
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 4.202901138228299e-9
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 9.591435423672579e-10
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 4.4851698743908486e-11
+          },
+          {
+            "name": "counselor",
+            "confidence": 5.1125301908649945e-12
+          },
+          {
+            "name": "emergency",
+            "confidence": 4.610837753271646e-12
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 8.161509662540922e-13
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "good morning",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 1,
+          "is_default": true
+        },
+        {
+          "intent": "stress",
+          "confidence": 3.5291687794369864e-8,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 1.184190612235625e-8,
+          "is_default": false
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 5.902694333315139e-9,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 4.202901138228299e-9,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 9.591435423672579e-10,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 4.4851698743908486e-11,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 5.1125301908649945e-12,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 4.610837753271646e-12,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 8.161509662540922e-13,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T17:44:06.745038+00:00"
+    },
+    {
+      "id": 149674311,
+      "version_name": "v1",
+      "text": "goodbye",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999996423721313
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999996423721313
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 2.1922578241628798e-7
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 9.930376165812049e-8
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 2.6416417497898692e-8
+          },
+          {
+            "name": "stress",
+            "confidence": 2.5979799644915147e-8
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 1.0479183742972964e-8
+          },
+          {
+            "name": "counselor",
+            "confidence": 2.5915793955277877e-9
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 8.553622810048012e-10
+          },
+          {
+            "name": "emergency",
+            "confidence": 4.3771289370830857e-10
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 6.264027491154067e-11
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "goodbye",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999996423721313,
+          "is_default": true
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 2.1922578241628798e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 9.930376165812049e-8,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 2.6416417497898692e-8,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 2.5979799644915147e-8,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 1.0479183742972964e-8,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 2.5915793955277877e-9,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 8.553622810048012e-10,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 4.3771289370830857e-10,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 6.264027491154067e-11,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T17:43:46.867878+00:00"
+    },
+    {
+      "id": 149674086,
+      "version_name": "v1",
+      "text": "good evening",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999990463256836
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999990463256836
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 5.24880363172997e-7
+          },
+          {
+            "name": "stress",
+            "confidence": 2.685665663193504e-7
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 8.133581275160395e-8
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 5.018520354838074e-8
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 1.7611354152791137e-8
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 6.173824118604898e-9
+          },
+          {
+            "name": "counselor",
+            "confidence": 1.8421748571029184e-9
+          },
+          {
+            "name": "emergency",
+            "confidence": 4.938948694466205e-10
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 9.040570375651313e-11
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "good evening",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999990463256836,
+          "is_default": true
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 5.24880363172997e-7,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 2.685665663193504e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 8.133581275160395e-8,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 5.018520354838074e-8,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 1.7611354152791137e-8,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 6.173824118604898e-9,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 1.8421748571029184e-9,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 4.938948694466205e-10,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 9.040570375651313e-11,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T17:43:07.760304+00:00"
+    },
+    {
+      "id": 149673611,
+      "version_name": "v1",
+      "text": "hello good morning",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 1
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 1
+          },
+          {
+            "name": "stress",
+            "confidence": 1.057302689844164e-8
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 7.886078456920131e-9
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 5.986746653974251e-9
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 3.5891698502155123e-9
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 8.696300901611664e-10
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 4.03340728871715e-11
+          },
+          {
+            "name": "counselor",
+            "confidence": 3.0465491240860842e-12
+          },
+          {
+            "name": "emergency",
+            "confidence": 1.6497807894116923e-12
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 6.848511558202319e-13
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "hello good morning",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 1,
+          "is_default": true
+        },
+        {
+          "intent": "stress",
+          "confidence": 1.057302689844164e-8,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 7.886078456920131e-9,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 5.986746653974251e-9,
+          "is_default": false
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 3.5891698502155123e-9,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 8.696300901611664e-10,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 4.03340728871715e-11,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 3.0465491240860842e-12,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 1.6497807894116923e-12,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 6.848511558202319e-13,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T17:41:54.140943+00:00"
+    },
+    {
+      "id": 149672291,
+      "version_name": "v1",
+      "text": "hey good morning",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 1
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 1
+          },
+          {
+            "name": "stress",
+            "confidence": 1.1150931733538982e-8
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 6.416498887773514e-9
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 4.58820181847841e-9
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 2.2566386537192784e-9
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 2.1038025488362422e-10
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 7.092135212438677e-11
+          },
+          {
+            "name": "emergency",
+            "confidence": 3.230865661812965e-12
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 1.5337078395488701e-12
+          },
+          {
+            "name": "counselor",
+            "confidence": 1.0189976033109227e-12
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "hey good morning",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 1,
+          "is_default": true
+        },
+        {
+          "intent": "stress",
+          "confidence": 1.1150931733538982e-8,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 6.416498887773514e-9,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 4.58820181847841e-9,
+          "is_default": false
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 2.2566386537192784e-9,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 2.1038025488362422e-10,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 7.092135212438677e-11,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 3.230865661812965e-12,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 1.5337078395488701e-12,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 1.0189976033109227e-12,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T17:38:36.650541+00:00"
+    },
+    {
+      "id": 149671416,
+      "version_name": "v1",
+      "text": "goodbye",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999996423721313
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999996423721313
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 2.1922578241628798e-7
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 9.930376165812049e-8
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 2.6416417497898692e-8
+          },
+          {
+            "name": "stress",
+            "confidence": 2.5979799644915147e-8
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 1.0479183742972964e-8
+          },
+          {
+            "name": "counselor",
+            "confidence": 2.5915793955277877e-9
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 8.553622810048012e-10
+          },
+          {
+            "name": "emergency",
+            "confidence": 4.3771289370830857e-10
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 6.264027491154067e-11
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "goodbye",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999996423721313,
+          "is_default": true
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 2.1922578241628798e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 9.930376165812049e-8,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 2.6416417497898692e-8,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 2.5979799644915147e-8,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 1.0479183742972964e-8,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 2.5915793955277877e-9,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 8.553622810048012e-10,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 4.3771289370830857e-10,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 6.264027491154067e-11,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T17:36:26.208105+00:00"
+    },
+    {
+      "id": 149670729,
+      "version_name": "v1",
+      "text": "hello good evening",
+      "from_backend": true,
+      "user_agent": "python-requests/2.23.0",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 1
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 1
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 1.598357712850884e-8
+          },
+          {
+            "name": "stress",
+            "confidence": 8.4248101828166e-9
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 4.8276653785706e-9
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 3.240844259622122e-9
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 3.2392191151586758e-9
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 7.999036155670325e-11
+          },
+          {
+            "name": "counselor",
+            "confidence": 1.3431701931243545e-11
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 1.8713407559656225e-12
+          },
+          {
+            "name": "emergency",
+            "confidence": 1.1022131558152681e-12
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "hello good evening",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 412466,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 1,
+          "is_default": true
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 1.598357712850884e-8,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 8.4248101828166e-9,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 4.8276653785706e-9,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 3.240844259622122e-9,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 3.2392191151586758e-9,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 7.999036155670325e-11,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 1.3431701931243545e-11,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 1.8713407559656225e-12,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T17:34:26.331545+00:00"
+    },
+    {
+      "id": 149670685,
+      "version_name": "v1",
+      "text": "bye",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.999998927116394
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.999998927116394
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 9.536404945720278e-7
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 9.675737544512231e-8
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 2.0271818002015607e-8
+          },
+          {
+            "name": "counselor",
+            "confidence": 1.613155120594456e-8
+          },
+          {
+            "name": "stress",
+            "confidence": 1.0997049493255417e-8
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 7.365206666776203e-9
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 6.952439957075285e-9
+          },
+          {
+            "name": "emergency",
+            "confidence": 2.2791075693362473e-9
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 4.247167895155002e-10
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "bye",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.999998927116394,
+          "is_default": true
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 9.536404945720278e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 9.675737544512231e-8,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 2.0271818002015607e-8,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 1.613155120594456e-8,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 1.0997049493255417e-8,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 7.365206666776203e-9,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 6.952439957075285e-9,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 2.2791075693362473e-9,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 4.247167895155002e-10,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T17:34:18.834690+00:00"
+    },
+    {
+      "id": 149669802,
+      "version_name": "v1",
+      "text": "hello good evening",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 1
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 1
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 1.598357712850884e-8
+          },
+          {
+            "name": "stress",
+            "confidence": 8.4248101828166e-9
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 4.8276653785706e-9
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 3.240844259622122e-9
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 3.2392191151586758e-9
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 7.999036155670325e-11
+          },
+          {
+            "name": "counselor",
+            "confidence": 1.3431701931243545e-11
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 1.8713407559656225e-12
+          },
+          {
+            "name": "emergency",
+            "confidence": 1.1022131558152681e-12
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "hello good evening",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 1,
+          "is_default": true
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 1.598357712850884e-8,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 8.4248101828166e-9,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 4.8276653785706e-9,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 3.240844259622122e-9,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 3.2392191151586758e-9,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 7.999036155670325e-11,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 1.3431701931243545e-11,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 1.8713407559656225e-12,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 1.1022131558152681e-12,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T17:32:13.801323+00:00"
+    },
+    {
+      "id": 149669465,
+      "version_name": "v1",
+      "text": "goodbye",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999996423721313
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999996423721313
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 2.1922578241628798e-7
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 9.930376165812049e-8
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 2.6416417497898692e-8
+          },
+          {
+            "name": "stress",
+            "confidence": 2.5979799644915147e-8
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 1.0479183742972964e-8
+          },
+          {
+            "name": "counselor",
+            "confidence": 2.5915793955277877e-9
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 8.553622810048012e-10
+          },
+          {
+            "name": "emergency",
+            "confidence": 4.3771289370830857e-10
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 6.264027491154067e-11
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "goodbye",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999996423721313,
+          "is_default": true
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 2.1922578241628798e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 9.930376165812049e-8,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 2.6416417497898692e-8,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 2.5979799644915147e-8,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 1.0479183742972964e-8,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 2.5915793955277877e-9,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 8.553622810048012e-10,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 4.3771289370830857e-10,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 6.264027491154067e-11,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T17:31:28.082100+00:00"
+    },
+    {
+      "id": 149556257,
+      "version_name": "v1",
+      "text": "bye",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.999998927116394
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.999998927116394
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 9.536404945720278e-7
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 9.675737544512231e-8
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 2.0271818002015607e-8
+          },
+          {
+            "name": "counselor",
+            "confidence": 1.613155120594456e-8
+          },
+          {
+            "name": "stress",
+            "confidence": 1.0997049493255417e-8
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 7.365206666776203e-9
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 6.952439957075285e-9
+          },
+          {
+            "name": "emergency",
+            "confidence": 2.2791075693362473e-9
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 4.247167895155002e-10
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "bye",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.999998927116394,
+          "is_default": true
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 9.536404945720278e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 9.675737544512231e-8,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 2.0271818002015607e-8,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 1.613155120594456e-8,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 1.0997049493255417e-8,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 7.365206666776203e-9,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 6.952439957075285e-9,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 2.2791075693362473e-9,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 4.247167895155002e-10,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T12:45:13.319464+00:00"
+    },
+    {
+      "id": 149547985,
+      "version_name": "v1",
+      "text": "hi",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999990463256836
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999990463256836
+          },
+          {
+            "name": "stress",
+            "confidence": 2.9627673825416423e-7
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 2.2395920495910104e-7
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 1.8426845826979843e-7
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 1.4842125040104293e-7
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 1.292035847200168e-7
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 1.8276471447364884e-9
+          },
+          {
+            "name": "counselor",
+            "confidence": 1.2599759013909306e-9
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 2.2910924546426514e-10
+          },
+          {
+            "name": "emergency",
+            "confidence": 9.877349632647636e-11
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "hi",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999990463256836,
+          "is_default": true
+        },
+        {
+          "intent": "stress",
+          "confidence": 2.9627673825416423e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 2.2395920495910104e-7,
+          "is_default": false
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 1.8426845826979843e-7,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 1.4842125040104293e-7,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 1.292035847200168e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 1.8276471447364884e-9,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 1.2599759013909306e-9,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 2.2910924546426514e-10,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 9.877349632647636e-11,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T12:18:54.687924+00:00"
+    },
+    {
+      "id": 149517081,
+      "version_name": "v1",
+      "text": "Hi",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999990463256836
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999990463256836
+          },
+          {
+            "name": "stress",
+            "confidence": 2.9627673825416423e-7
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 2.2395920495910104e-7
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 1.8426845826979843e-7
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 1.4842125040104293e-7
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 1.292035847200168e-7
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 1.8276471447364884e-9
+          },
+          {
+            "name": "counselor",
+            "confidence": 1.2599759013909306e-9
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 2.2910924546426514e-10
+          },
+          {
+            "name": "emergency",
+            "confidence": 9.877349632647636e-11
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "Hi",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999990463256836,
+          "is_default": true
+        },
+        {
+          "intent": "stress",
+          "confidence": 2.9627673825416423e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 2.2395920495910104e-7,
+          "is_default": false
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 1.8426845826979843e-7,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 1.4842125040104293e-7,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 1.292035847200168e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 1.8276471447364884e-9,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 1.2599759013909306e-9,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 2.2910924546426514e-10,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 9.877349632647636e-11,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T06:29:18.198471+00:00"
+    },
+    {
+      "id": 149516688,
+      "version_name": "v1",
+      "text": "give more time option please",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "counselor",
+          "confidence": 0.5601020455360413
+        },
+        "intent_ranking": [
+          {
+            "name": "counselor",
+            "confidence": 0.5601020455360413
+          },
+          {
+            "name": "menu",
+            "confidence": 0.27594688534736633
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 0.040647659450769424
+          },
+          {
+            "name": "emergency",
+            "confidence": 0.037755489349365234
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 0.03686901554465294
+          },
+          {
+            "name": "bias",
+            "confidence": 0.03419670835137367
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 0.007452019490301609
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 0.004273300524801016
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 0.0018375128274783492
+          },
+          {
+            "name": "stress",
+            "confidence": 0.0009194010635837913
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "give more time option please",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "counselor",
+          "confidence": 0.5601020455360413,
+          "is_default": true
+        },
+        {
+          "intent": "menu",
+          "confidence": 0.27594688534736633,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 0.040647659450769424,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 0.037755489349365234,
+          "is_default": false
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 0.03686901554465294,
+          "is_default": false
+        },
+        {
+          "intent": "bias",
+          "confidence": 0.03419670835137367,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 0.007452019490301609,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 0.004273300524801016,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 0.0018375128274783492,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 0.0009194010635837913,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T05:30:58.926343+00:00"
+    },
+    {
+      "id": 149516686,
+      "version_name": "v1",
+      "text": "No, later time",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.998431384563446
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.998431384563446
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 0.0012156354496255517
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 0.0001297632697969675
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 0.00009721452806843445
+          },
+          {
+            "name": "counselor",
+            "confidence": 0.00004803499541594647
+          },
+          {
+            "name": "stress",
+            "confidence": 0.00003750274481717497
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 0.000021288929929141887
+          },
+          {
+            "name": "menu",
+            "confidence": 0.00001686149880697485
+          },
+          {
+            "name": "emergency",
+            "confidence": 0.0000019611334209912457
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 3.6665974789684697e-7
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "No, later time",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.998431384563446,
+          "is_default": true
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 0.0012156354496255517,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 0.0001297632697969675,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 0.00009721452806843445,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 0.00004803499541594647,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 0.00003750274481717497,
+          "is_default": false
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 0.000021288929929141887,
+          "is_default": false
+        },
+        {
+          "intent": "menu",
+          "confidence": 0.00001686149880697485,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 0.0000019611334209912457,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 3.6665974789684697e-7,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T05:30:36.582301+00:00"
+    },
+    {
+      "id": 149516297,
+      "version_name": "v1",
+      "text": "Hi",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999990463256836
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999990463256836
+          },
+          {
+            "name": "stress",
+            "confidence": 2.9627673825416423e-7
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 2.2395920495910104e-7
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 1.8426845826979843e-7
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 1.4842125040104293e-7
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 1.292035847200168e-7
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 1.8276471447364884e-9
+          },
+          {
+            "name": "counselor",
+            "confidence": 1.2599759013909306e-9
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 2.2910924546426514e-10
+          },
+          {
+            "name": "emergency",
+            "confidence": 9.877349632647636e-11
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "Hi",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999990463256836,
+          "is_default": true
+        },
+        {
+          "intent": "stress",
+          "confidence": 2.9627673825416423e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 2.2395920495910104e-7,
+          "is_default": false
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 1.8426845826979843e-7,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 1.4842125040104293e-7,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 1.292035847200168e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 1.8276471447364884e-9,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 1.2599759013909306e-9,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 2.2910924546426514e-10,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 9.877349632647636e-11,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T04:49:49.513325+00:00"
+    },
+    {
+      "id": 149516296,
+      "version_name": "v1",
+      "text": "hi",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/8.1.26",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999990463256836
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999990463256836
+          },
+          {
+            "name": "stress",
+            "confidence": 2.9627673825416423e-7
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 2.2395920495910104e-7
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 1.8426845826979843e-7
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 1.4842125040104293e-7
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 1.292035847200168e-7
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 1.8276471447364884e-9
+          },
+          {
+            "name": "counselor",
+            "confidence": 1.2599759013909306e-9
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 2.2910924546426514e-10
+          },
+          {
+            "name": "emergency",
+            "confidence": 9.877349632647636e-11
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "hi",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999990463256836,
+          "is_default": true
+        },
+        {
+          "intent": "stress",
+          "confidence": 2.9627673825416423e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 2.2395920495910104e-7,
+          "is_default": false
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 1.8426845826979843e-7,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 1.4842125040104293e-7,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 1.292035847200168e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 1.8276471447364884e-9,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 1.2599759013909306e-9,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 2.2910924546426514e-10,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 9.877349632647636e-11,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-03-01T04:49:46.373719+00:00"
+    },
+    {
+      "id": 148492193,
+      "version_name": "v1",
+      "text": "how old ar you?",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/production",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9759624600410461
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9759624600410461
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 0.021224820986390114
+          },
+          {
+            "name": "stress",
+            "confidence": 0.002461339347064495
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 0.00027819632668979466
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 0.0000411312430514954
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 0.00001658503788348753
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 0.000009029451575770508
+          },
+          {
+            "name": "emergency",
+            "confidence": 0.000003886616468662396
+          },
+          {
+            "name": "menu",
+            "confidence": 0.0000017108476413341123
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 8.121152745843574e-7
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "how old ar you?",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9759624600410461,
+          "is_default": true
+        }
+      ],
+      "created_at": "2023-02-24T11:24:05.847920+00:00"
+    },
+    {
+      "id": 148492107,
+      "version_name": "v1",
+      "text": "when i gonna die?",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/production",
+      "nlp_log": {
+        "intent": {
+          "name": "emergency",
+          "confidence": 0.9736804366111755
+        },
+        "intent_ranking": [
+          {
+            "name": "emergency",
+            "confidence": 0.9736804366111755
+          },
+          {
+            "name": "bias",
+            "confidence": 0.01386290229856968
+          },
+          {
+            "name": "stress",
+            "confidence": 0.009335442446172237
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 0.0027744807302951813
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 0.00028979929629713297
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 0.00002400309131189715
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 0.000021527808712562546
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 0.000006386589575413382
+          },
+          {
+            "name": "counselor",
+            "confidence": 0.000004448818799573928
+          },
+          {
+            "name": "menu",
+            "confidence": 6.365517037920654e-7
+          }
+        ],
+        "entities_list": [
+          "suicide"
+        ],
+        "entities": {
+          "other": [
+            {
+              "entity": "suicide",
+              "start": 13,
+              "end": 16,
+              "value": "die",
+              "extractor": "DIETClassifierCustom"
+            }
+          ]
+        },
+        "text": "when i gonna die?",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": [
+          "other"
+        ]
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "emergency",
+          "confidence": 0.9736804366111755,
+          "is_default": true
+        },
+        {
+          "intent": "bias",
+          "confidence": 0.01386290229856968,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 0.009335442446172237,
+          "is_default": false
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 0.0027744807302951813,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 0.00028979929629713297,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 0.00002400309131189715,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 0.000021527808712562546,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 0.000006386589575413382,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 0.000004448818799573928,
+          "is_default": false
+        },
+        {
+          "intent": "menu",
+          "confidence": 6.365517037920654e-7,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-02-24T11:23:35.195432+00:00"
+    },
+    {
+      "id": 148491903,
+      "version_name": "v1",
+      "text": "hello",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/production",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999984502792358
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999984502792358
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 5.279792389956128e-7
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 4.471232557534677e-7
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 4.197462999400159e-7
+          },
+          {
+            "name": "stress",
+            "confidence": 6.827819021282266e-8
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 4.356222760293349e-8
+          },
+          {
+            "name": "counselor",
+            "confidence": 7.937479118425017e-9
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 4.784043827754658e-9
+          },
+          {
+            "name": "emergency",
+            "confidence": 4.003765319282593e-9
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 2.5840773965057906e-10
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "hello",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999984502792358,
+          "is_default": true
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 5.279792389956128e-7,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 4.471232557534677e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 4.197462999400159e-7,
+          "is_default": false
+        },
+        {
+          "intent": "stress",
+          "confidence": 6.827819021282266e-8,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 4.356222760293349e-8,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 7.937479118425017e-9,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 4.784043827754658e-9,
+          "is_default": false
+        },
+        {
+          "intent": "emergency",
+          "confidence": 4.003765319282593e-9,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 2.5840773965057906e-10,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-02-24T11:22:45.730950+00:00"
+    },
+    {
+      "id": 148491847,
+      "version_name": "v1",
+      "text": "hi",
+      "from_backend": false,
+      "user_agent": "RapidProMailroom/production",
+      "nlp_log": {
+        "intent": {
+          "name": "bias",
+          "confidence": 0.9999990463256836
+        },
+        "intent_ranking": [
+          {
+            "name": "bias",
+            "confidence": 0.9999990463256836
+          },
+          {
+            "name": "stress",
+            "confidence": 2.9627673825416423e-7
+          },
+          {
+            "name": "gender_stress",
+            "confidence": 2.2395920495910104e-7
+          },
+          {
+            "name": "problem_solving",
+            "confidence": 1.8426845826979843e-7
+          },
+          {
+            "name": "interpersonal_relationship",
+            "confidence": 1.4842125040104293e-7
+          },
+          {
+            "name": "emotion_regulation",
+            "confidence": 1.292035847200168e-7
+          },
+          {
+            "name": "gender_violence",
+            "confidence": 1.8276471447364884e-9
+          },
+          {
+            "name": "counselor",
+            "confidence": 1.2599759013909306e-9
+          },
+          {
+            "name": "substance_abuse",
+            "confidence": 2.2910924546426514e-10
+          },
+          {
+            "name": "emergency",
+            "confidence": 9.877349632647636e-11
+          }
+        ],
+        "entities_list": [],
+        "entities": {},
+        "text": "hi",
+        "repository_version": 101904,
+        "language": "en",
+        "group_list": []
+      },
+      "user": 779,
+      "log_intent": [
+        {
+          "intent": "bias",
+          "confidence": 0.9999990463256836,
+          "is_default": true
+        },
+        {
+          "intent": "stress",
+          "confidence": 2.9627673825416423e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_stress",
+          "confidence": 2.2395920495910104e-7,
+          "is_default": false
+        },
+        {
+          "intent": "problem_solving",
+          "confidence": 1.8426845826979843e-7,
+          "is_default": false
+        },
+        {
+          "intent": "interpersonal_relationship",
+          "confidence": 1.4842125040104293e-7,
+          "is_default": false
+        },
+        {
+          "intent": "emotion_regulation",
+          "confidence": 1.292035847200168e-7,
+          "is_default": false
+        },
+        {
+          "intent": "gender_violence",
+          "confidence": 1.8276471447364884e-9,
+          "is_default": false
+        },
+        {
+          "intent": "counselor",
+          "confidence": 1.2599759013909306e-9,
+          "is_default": false
+        },
+        {
+          "intent": "substance_abuse",
+          "confidence": 2.2910924546426514e-10,
+          "is_default": false
+        }
+      ],
+      "created_at": "2023-02-24T11:22:30.805765+00:00"
+    }
+  ]
+}

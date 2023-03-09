@@ -1,0 +1,55 @@
+{
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "uuid": "0ebf1369-e726-4793-a85b-b4fc3c91a3a6",
+      "name": "Registration completed",
+      "query": null,
+      "status": "ready",
+      "count": 0
+    },
+    {
+      "uuid": "40913c2f-ff43-47f5-b997-48a256d1548e",
+      "name": "Appointment scheduled",
+      "query": null,
+      "status": "ready",
+      "count": 16
+    },
+    {
+      "uuid": "5dbe7ccd-3c57-4cdd-90b5-de3b3bfd53b4",
+      "name": "Unauthorized",
+      "query": null,
+      "status": "ready",
+      "count": 51
+    },
+    {
+      "uuid": "ee250c5b-4842-4dc5-b58b-08806922f33f",
+      "name": "nepali users",
+      "query": null,
+      "status": "ready",
+      "count": 0
+    },
+    {
+      "uuid": "2af9159d-5aca-422f-94e7-803c983a1be2",
+      "name": "Welcome",
+      "query": null,
+      "status": "ready",
+      "count": 82
+    },
+    {
+      "uuid": "9e82d216-7946-4018-b61a-813f20c592f0",
+      "name": "Unsatisfied Customers",
+      "query": null,
+      "status": "ready",
+      "count": 0
+    },
+    {
+      "uuid": "e1dca969-8b47-4ae5-95bd-3fa1168f9004",
+      "name": "Survey Audience",
+      "query": null,
+      "status": "ready",
+      "count": 0
+    }
+  ]
+}

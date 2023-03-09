@@ -1,0 +1,1582 @@
+{
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "uuid": "cba8795b-71b0-4c25-aba8-206571ccbb41",
+      "name": "completed Quiz SID 2023",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 228
+    },
+    {
+      "uuid": "97c75790-f7a2-47d7-972f-fde54893618b",
+      "name": "Flow credit - SID 2023",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 119
+    },
+    {
+      "uuid": "5e3c6f88-8bcc-4671-820d-9e11b8d13a85",
+      "name": "ParentText_IPV_school_ES",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 16
+    },
+    {
+      "uuid": "e952c7d0-65d1-481e-b029-5a8e12756ef1",
+      "name": "Completed Flow SID 2023 poll",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 208
+    },
+    {
+      "uuid": "47666511-3427-4f1f-81a2-1d3140d81448",
+      "name": "Open Tickets",
+      "query": "tickets > 0",
+      "status": "ready",
+      "system": true,
+      "count": 12
+    },
+    {
+      "uuid": "dc905722-99d9-47c5-b585-0f732ba91b32",
+      "name": "Completed Flow SID 2022 poll",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 6
+    },
+    {
+      "uuid": "54686c9c-e653-4010-9bb0-bdd4b3dc05d5",
+      "name": "U-Learn Opt In",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "50f57cc7-147b-45d6-881c-b99d1b14f2a2",
+      "name": "Weni Teste",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 2
+    },
+    {
+      "uuid": "fec88bba-d23c-4691-afbb-f2be365e7a79",
+      "name": "ParentText_IPV_school_JM",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "29818edc-eb54-47de-9efc-fbc335654169",
+      "name": "ParentText_IPV_school_Ce",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 15
+    },
+    {
+      "uuid": "0eb99e1e-d8e4-41b4-95ee-447761f09494",
+      "name": "ParentText_IPV_FB_ad",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "9bf32a63-624f-4af5-8a1c-6b7fb2fb05c8",
+      "name": "Completed JYAN unhealthy foods poll",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 273
+    },
+    {
+      "uuid": "b3e18dc2-61c5-4222-9626-5cbd70d73343",
+      "name": "ipv version",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 65
+    },
+    {
+      "uuid": "f4a4809b-0495-44d8-8d66-55a26768c5a4",
+      "name": "ParentText_IPV_school_PB",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 7
+    },
+    {
+      "uuid": "147ad78d-d5e1-4f67-b0c1-8c033e424d40",
+      "name": "ParentText_IPV_school_CC",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 10
+    },
+    {
+      "uuid": "037ce158-312d-407e-87f4-a263fbf72437",
+      "name": "ParentText_IPV_WC_urban",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 11
+    },
+    {
+      "uuid": "a3ac9ba1-de86-4492-9249-274bf76df419",
+      "name": "ParentText_IPV_WC_rural",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 6
+    },
+    {
+      "uuid": "9cef6332-7580-4630-bf85-e39f1dcb5f5a",
+      "name": "Completed JYAN nutrition poll",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 507
+    },
+    {
+      "uuid": "41c48d32-35d7-400d-b724-300641f4f3bc",
+      "name": "stuck u-matter users",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 46
+    },
+    {
+      "uuid": "b89cdfa9-cd1c-4d93-84f0-1eba8b58f820",
+      "name": "more than 7 days",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 911
+    },
+    {
+      "uuid": "a3023dc3-58bd-4377-9853-ca8da465043b",
+      "name": "open interaction",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 15098
+    },
+    {
+      "uuid": "247bcc48-f354-42bd-8e8b-5a70ae334e13",
+      "name": "MOHW mental health not completed survey",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 1
+    },
+    {
+      "uuid": "0b805a0c-bd33-44ff-bac6-3c6daa90a26c",
+      "name": "MOHW completed survey",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 549
+    },
+    {
+      "uuid": "2060e881-2c84-459a-abc6-8ec8cd1b4c78",
+      "name": "MOHW mental health open",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 5
+    },
+    {
+      "uuid": "b09787af-e85b-489c-b04f-7ab61471209c",
+      "name": "PT announcement open",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "e346c1eb-6ccd-4537-b44e-3f7bbebf994e",
+      "name": "ABTest_test-n-messages-per-day_alternative",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 467
+    },
+    {
+      "uuid": "fed0b60a-aa88-4cc7-8736-3f665a305f78",
+      "name": "ABTest_test-n-messages-per-day_Default",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 1663
+    },
+    {
+      "uuid": "c9f84697-7d5a-46a1-b7cf-9063f29cf9f1",
+      "name": "ABTest_test-hook_alternative",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 1519
+    },
+    {
+      "uuid": "322a465a-0780-4a83-8dfe-54039108e214",
+      "name": "ABTest_test-hook_Default",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 611
+    },
+    {
+      "uuid": "b11a79f9-87af-4f58-a338-9a21a5173ab7",
+      "name": "ABTest_test-exit_alternative",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 1062
+    },
+    {
+      "uuid": "da1a1842-cdfe-4a05-8754-ce4bbde63232",
+      "name": "ABTest_test-exit_Default",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 1064
+    },
+    {
+      "uuid": "099da003-82d6-46e3-811c-fc131665d21d",
+      "name": "ABTest_test-personalisation_alternative",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 1046
+    },
+    {
+      "uuid": "3d3ddff1-e600-4dfd-88b5-d40662c144b0",
+      "name": "ABTest_test-personalisation_Default",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 1080
+    },
+    {
+      "uuid": "1acbfaae-4ba0-442a-8101-d795f42feaf9",
+      "name": "ABTest_test-first-person_alternative",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "524418f7-e1d5-40e1-b9f2-0254155357bc",
+      "name": "ABTest_test-first-person_Default",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 2126
+    },
+    {
+      "uuid": "428356fd-80b9-4077-a9eb-31b932dba4bc",
+      "name": "ABTest_test-gamification_alternative",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 1112
+    },
+    {
+      "uuid": "7c5446a0-6108-4593-974b-91f623116536",
+      "name": "ABTest_test-gamification_Default",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 1014
+    },
+    {
+      "uuid": "7594a12f-2901-4237-b3a9-85cf26f8800c",
+      "name": "women centre",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 48
+    },
+    {
+      "uuid": "a92c181d-e916-429f-b819-ca5ef2a57e42",
+      "name": "wc above 18",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 2
+    },
+    {
+      "uuid": "23c3a52b-d715-4f44-a305-ef5903ca065d",
+      "name": "passive drop out",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 1459
+    },
+    {
+      "uuid": "d1712c09-6654-466e-9c6b-9edada3d0ec2",
+      "name": "joined",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 2012
+    },
+    {
+      "uuid": "2da16c50-3b22-4289-9081-a6cf99a300f9",
+      "name": "wc below age",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 8
+    },
+    {
+      "uuid": "2015b528-86ab-41a3-aed4-92e71ac3d28a",
+      "name": "pause parenttext",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 17
+    },
+    {
+      "uuid": "9ea2d2f2-9ebf-4495-b0e3-ab7f3bf3fc5f",
+      "name": "open chatline user satisfaction survey",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 1071
+    },
+    {
+      "uuid": "1c02bbfd-2a8f-4bd7-8d3c-893150fdac57",
+      "name": "ipv open 30",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "43ecce4f-9769-4172-99d5-bb24a482555d",
+      "name": "ipv open 150",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "c2b64dcc-63bf-449e-9093-3183dc2ec49c",
+      "name": "ipv baseline",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 58
+    },
+    {
+      "uuid": "f8c5f7a9-84d8-4a80-a37a-8542dc29fb3e",
+      "name": "in program",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 119
+    },
+    {
+      "uuid": "4619242d-06a2-4832-8424-7cd327df2474",
+      "name": "consent",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 1581
+    },
+    {
+      "uuid": "227398f6-7739-4e79-8c53-72656504d1bb",
+      "name": "completed programme",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 7
+    },
+    {
+      "uuid": "b6bff4cd-aa63-46a2-8cc8-dde264d8e976",
+      "name": "case in survey",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 386
+    },
+    {
+      "uuid": "166f3045-1414-40d6-9264-b7c6a355e527",
+      "name": "below age",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 36
+    },
+    {
+      "uuid": "9302517c-d8eb-4e8d-968c-495c45b115fd",
+      "name": "U-Reporters Non-binary",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 30
+    },
+    {
+      "uuid": "fef460a7-f9f3-44fb-b1e3-1fcc7e30e2bf",
+      "name": "Teenage Pregnancy",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "aaa2a20a-3ad0-4724-972d-0e111bee3fe2",
+      "name": "STI",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "5a43e6a5-bc95-4650-aa47-805067f3ebba",
+      "name": "CompletedVaxHestitancyPoll",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 102
+    },
+    {
+      "uuid": "bc9e2d36-05fb-4ef6-bf33-4e8eca51abe0",
+      "name": "Born after 2000",
+      "query": "born > 2000",
+      "status": "ready",
+      "system": false,
+      "count": 4410
+    },
+    {
+      "uuid": "c21aa129-ea35-444f-8918-c801f1ca2f4b",
+      "name": "Not interest about periods",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 1
+    },
+    {
+      "uuid": "876492ef-b657-4043-9e7a-9258f9821e76",
+      "name": "Chatbot-NotInterest",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 5
+    },
+    {
+      "uuid": "1474cb07-23c0-43de-b46a-fdc1035c1732",
+      "name": "Whatsapp Dynamic 3 v2",
+      "query": "test_whatsapp = \"whatsapp\" AND registration_date >= \"26-04-2021\" AND registration_date <= \"03-06-2022\"",
+      "status": "ready",
+      "system": false,
+      "count": 279
+    },
+    {
+      "uuid": "9bfe5655-2481-439f-b6eb-d5a74b551382",
+      "name": "Whatsapp Dynamic 3.0",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "4197a6cd-6b95-452f-ae93-f94e2651c97b",
+      "name": "completedcovidvaxpoll",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 6
+    },
+    {
+      "uuid": "110aef03-d4a8-405d-8c7a-b534c41ff70e",
+      "name": "WhatsApp Dynamic 3.1",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "3b43e4af-4e6f-4084-b2db-0c5159f53f4b",
+      "name": "Whatsapp Dynamic 3",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "f333a7a5-7602-4777-baa6-05deb5da25c6",
+      "name": "Health Worker",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 1
+    },
+    {
+      "uuid": "d28bbdc2-2090-4144-a685-626866d6e854",
+      "name": "chatline testers",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 53
+    },
+    {
+      "uuid": "1ec18a7c-eda5-4809-94ff-58f79a4fd601",
+      "name": "Whatsapp Dynamic 2",
+      "query": "test_whatsapp = \"whatsapp\" AND (registration_date >= \"29-07-2020\" AND registration_date <= \"25-04-2021\")",
+      "status": "ready",
+      "system": false,
+      "count": 879
+    },
+    {
+      "uuid": "dee70466-2182-4b60-bce4-8de3a5b5b5ec",
+      "name": "Whatsapp Dynamic 1",
+      "query": "test_whatsapp = \"whatsapp\" AND (registration_date >= \"01-04-2020\" AND registration_date <= \"28-07-2020\")",
+      "status": "ready",
+      "system": false,
+      "count": 951
+    },
+    {
+      "uuid": "69148634-ab0b-48fe-9a2d-ecccc689d413",
+      "name": "MH21Participants",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 536
+    },
+    {
+      "uuid": "36ff70b6-0296-47b5-b963-a80591b2eada",
+      "name": "Voted on Chatline Name",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 542
+    },
+    {
+      "uuid": "8dc752de-2103-47a0-a2b3-d9e5b620c48b",
+      "name": "Completed chatline naming poll",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 331
+    },
+    {
+      "uuid": "3e6d28fe-bf76-4a9a-87aa-bfe3462d461f",
+      "name": "Chatline Users - open cases",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 54
+    },
+    {
+      "uuid": "0f03e90d-6817-4847-b0cd-78fbd7850c2a",
+      "name": "Completed Pfizer poll",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 4
+    },
+    {
+      "uuid": "1ae2e34d-9309-4865-ac0b-8136d222c517",
+      "name": "TimeOut24hours.BOT",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "69c2be93-380e-479d-b16a-1d7adf34a398",
+      "name": "24timeout.bot",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "f66bfb2a-e0e9-441d-bfd0-340677bf7e3b",
+      "name": "Chatline user",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 2091
+    },
+    {
+      "uuid": "b49cc97e-346a-48ae-b709-04975ba5d744",
+      "name": "JAFTA poll",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 19
+    },
+    {
+      "uuid": "cc4e9085-60a3-45f9-b6b7-ce7d1210e4b0",
+      "name": "Completed JYAN poll",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 651
+    },
+    {
+      "uuid": "8c83c4e5-61d8-4ed9-8f2b-2997395a92dc",
+      "name": "WhatsappContactoJoven",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "5b8efc7d-9343-4a44-867a-0897ec234803",
+      "name": "UReporters",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 1
+    },
+    {
+      "uuid": "733341b7-7859-4676-a735-22e2a7e18344",
+      "name": "FBContactoJoven",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "495b0c14-25d5-483a-ab6c-85527137dc70",
+      "name": "Allcontactojoven",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "ab85c139-e225-456b-ac1b-6e09477681db",
+      "name": "completed nutrition poll",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 654
+    },
+    {
+      "uuid": "80d377e3-a8aa-4f9b-a16d-e159fbb227ea",
+      "name": "Active Contacts  (Not in a U-Partner case)",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 16356
+    },
+    {
+      "uuid": "b527778f-8c60-487a-9a17-7b9400900158",
+      "name": "Weni training",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "00667e96-0233-4491-8f18-38b12a57a0d0",
+      "name": "Demographic_Details_Completed",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "c4414a94-8127-457d-9a79-f2f4e90b2e41",
+      "name": "Spotlight capacity poll participants",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 2
+    },
+    {
+      "uuid": "af7ba4fe-d23a-420d-8298-c98865a76635",
+      "name": "Reimagine Education - FB additional group",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "bbe6cfa5-52d0-43c5-ac4d-17f3717a2fda",
+      "name": "reimaginecompleted",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "a6eb72ad-7544-42f7-b51f-7f3de8ecd75f",
+      "name": "testreimaginecompleted",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 264
+    },
+    {
+      "uuid": "dc9bb5c7-bf58-4f87-92ce-a3e5abf0f304",
+      "name": "flowwinners",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 42
+    },
+    {
+      "uuid": "3879404e-3798-4c06-a9ca-9887cdcbb26c",
+      "name": "digicelwinners",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 102
+    },
+    {
+      "uuid": "d9f841ad-fd84-41ef-b3cf-130164348d76",
+      "name": "WAD Quiz - contact base",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 19
+    },
+    {
+      "uuid": "a6036ef2-1deb-416c-af56-6336260056d8",
+      "name": "Flow credit - WAD quiz",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 597
+    },
+    {
+      "uuid": "19c8386a-2b98-49b1-b7fd-728bd870015a",
+      "name": "Digicel credit - WAD quiz",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 844
+    },
+    {
+      "uuid": "3908978e-27c6-4c55-bb71-32320e395a2e",
+      "name": "WAD quiz contestants",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 1977
+    },
+    {
+      "uuid": "c14f67d2-4db2-41c6-b60c-00ad7da8c2b9",
+      "name": "Teen Hub Contestant",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 106
+    },
+    {
+      "uuid": "7a72136b-27dd-456f-9fad-3c731feddd5b",
+      "name": "Flow credit - Teen Hub",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 37
+    },
+    {
+      "uuid": "aad68ac0-2409-416e-aa11-c59b3b685d77",
+      "name": "Digicel credit - Teen Hub",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 66
+    },
+    {
+      "uuid": "4fca8d8a-5bf8-40f2-b2ac-c3a31a08f87f",
+      "name": "notsms",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 6410
+    },
+    {
+      "uuid": "f239f57d-6961-473a-9fcc-dbfc88263554",
+      "name": "NFPB Contest Base",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "0583ad6d-779e-47de-83b9-801c3a4bacd9",
+      "name": "NFPB Contest Winners",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 2
+    },
+    {
+      "uuid": "5c257dc2-4324-49dd-a0bf-207dd4fb329e",
+      "name": "testou",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "a3752820-4878-445c-b6ed-6fed13ab09eb",
+      "name": "other 17-09",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 10748
+    },
+    {
+      "uuid": "f5944349-8fd1-410a-a636-646629e1b316",
+      "name": "Whatsapp U-Reporters",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 1021
+    },
+    {
+      "uuid": "03d2cec0-994e-4878-9319-446158a302f5",
+      "name": "mhregion",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 93
+    },
+    {
+      "uuid": "ffcd6feb-de43-4891-a7e0-a894ed5de676",
+      "name": "MHInfoAsistencia",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 181
+    },
+    {
+      "uuid": "ed7b05bb-27d9-452f-add6-a6cadadad54a",
+      "name": "MHAsistencia",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 227
+    },
+    {
+      "uuid": "6a445ecf-6e3b-4c1d-8135-528f6d66a071",
+      "name": "reeanna",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "12480ef1-7e05-4680-a0ee-9799807b6517",
+      "name": "raihn",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "ca8fe2ca-eba9-4d78-b6a1-eb96a83bbb62",
+      "name": "nick",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 1
+    },
+    {
+      "uuid": "93ef2d7e-8317-4a0f-b4c3-95ceda2a2d7e",
+      "name": "jerome",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 1
+    },
+    {
+      "uuid": "6ac7aa34-bcdb-45b7-aefb-be5e7d8d9206",
+      "name": "antonette",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "9b200d72-ce25-447e-8921-6a344ae208e8",
+      "name": "Africka",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 2
+    },
+    {
+      "uuid": "949d8217-5ea8-46d9-8733-8cb21c8cdcb4",
+      "name": "Rejoin",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "3daa7423-5301-495c-9165-6b8be24b2bba",
+      "name": "COVID-19 Unreliable Information Sources",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "d7b56374-3cf9-4f6b-8ea1-7a6759e1e56a",
+      "name": "COVID-19 Uninformed",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "fac8ea15-061e-43c5-bd86-adfe10b88feb",
+      "name": "COVID-19 Symptoms Campaign",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "c489524b-4a5f-42cf-921a-d2e26936d8f8",
+      "name": "COVID-19 Survey Participants",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "795dac19-c2b5-48fd-9256-951c7f66e9b9",
+      "name": "COVID-19 Risks Campaign",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "0f74aded-c6ea-412e-9548-ede9997a0a3c",
+      "name": "COVID-19 Reasonably Informed",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "31ee20d9-a724-4202-9b61-2c48d46c4164",
+      "name": "COVID-19 Prevention Campaign",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "e0d8f59d-32b7-40d4-ae4d-61d770172a52",
+      "name": "COVID-19 General Campaign",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "c3ee38f7-68b5-43ab-8c3b-e6e7da237a56",
+      "name": "COVID-19 Deeply Uninformed",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "02e5230c-0ad8-416e-b0cf-615a83218dac",
+      "name": "Consultor Nao Qualificado2",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "22318970-4566-474e-8e8e-ab1dcca905e1",
+      "name": "NotificationEatPlayLove",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "c34c4924-8ae6-45b9-a860-f3ba853e946d",
+      "name": "12-24ECD",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "e1979875-9d1e-4631-bc71-8b5c9f9867b0",
+      "name": "0-6ECD",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "f0d68d91-2ae6-479c-b56e-a026d5271725",
+      "name": "24aboveECD",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "63d47d4d-0882-4ac8-b6d7-fb5127d6f868",
+      "name": "6-12ECD",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "396eabd7-fc9b-49d8-86e2-68b220bc30df",
+      "name": "WhatsApp",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 2460
+    },
+    {
+      "uuid": "8f31843a-b8f8-4c1a-8a5d-4fa48010bd0f",
+      "name": "flow.region",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "39d015b9-ab6c-46d9-ab9e-70625a08dd5d",
+      "name": "UNICEF staff",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 8
+    },
+    {
+      "uuid": "e0c1784f-b90c-4b4b-9920-cb6657b45916",
+      "name": "fbtest",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 4351
+    },
+    {
+      "uuid": "84cd42b7-6c7f-4f8d-af30-9c70c00374ae",
+      "name": "not sms nor fb",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 4730
+    },
+    {
+      "uuid": "889823d5-1af2-4245-b817-51e56f17b217",
+      "name": "testsms fail",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 4730
+    },
+    {
+      "uuid": "c1782b18-20c2-43c8-86ac-93e51ed046a6",
+      "name": "testsms",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 4840
+    },
+    {
+      "uuid": "e1d65a54-c4d7-4aa0-8de0-1b9be420f0e8",
+      "name": "Coronavirus feedback",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 149
+    },
+    {
+      "uuid": "ccae4915-470b-4472-a9a3-3672b4bd6d23",
+      "name": "Parents",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 10
+    },
+    {
+      "uuid": "53ce741e-01d6-49de-83ab-f5edcf639720",
+      "name": "Enrolled in high school",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 456
+    },
+    {
+      "uuid": "f35c6ce4-57c2-4131-a774-875d14f3b974",
+      "name": "high school age",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 816
+    },
+    {
+      "uuid": "96fc2313-2c00-4193-a1c0-6df6feab2643",
+      "name": "UNDAY",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "3abfe6ae-8a05-47b5-b2bd-3526f47b8478",
+      "name": "UPartners",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "1a452083-81b5-40eb-a2cf-092ca1c14454",
+      "name": "everyone",
+      "query": "born = \"\" OR born != \"\"",
+      "status": "ready",
+      "system": false,
+      "count": 19637
+    },
+    {
+      "uuid": "e522645c-b218-4595-ac46-64bfe01cde0f",
+      "name": "MONS Volunteers",
+      "query": "region = \"Saint James\" OR region = \"Kingston and St. Andrew Corporation\"",
+      "status": "ready",
+      "system": false,
+      "count": 3801
+    },
+    {
+      "uuid": "7a70d9d2-934e-49e2-afb7-852b53261300",
+      "name": "CPFSA all attendees",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 65
+    },
+    {
+      "uuid": "9b621a0b-b3a0-4eb2-aa28-c709e421658f",
+      "name": "General Participant",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 16
+    },
+    {
+      "uuid": "cbbaa734-ded9-4e72-b439-a04e5e96a687",
+      "name": "CPFSA Presenter",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 4
+    },
+    {
+      "uuid": "b52cd421-8195-4f77-be1d-ecb2fa93a668",
+      "name": "CPFSA Chaperone",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 8
+    },
+    {
+      "uuid": "88dcaaf8-adb3-43a3-a792-8d283f21a9d3",
+      "name": "CPFSA Out of Care Delegate",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 3
+    },
+    {
+      "uuid": "05f96aa6-bed0-4983-8f25-299a02919096",
+      "name": "CPFSA State Care Delegate",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 16
+    },
+    {
+      "uuid": "2b8d69cd-229b-4f73-8cf0-ad6a7ab7baee",
+      "name": "WithBullyingHelpline",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 108
+    },
+    {
+      "uuid": "9c7b843c-0b29-4db1-9196-4f8bb530b025",
+      "name": "JDYA",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 13
+    },
+    {
+      "uuid": "a7c117b5-9c3f-427d-81b3-a67709d80eda",
+      "name": "ROCK",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "78e6f57e-aecd-42ed-864a-2e9b2b5c1056",
+      "name": "Poll",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "f0af1d4e-8879-41a9-956d-9e90a582aedc",
+      "name": "Poll name",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "d98495e4-3b2c-4585-847f-31f8f1ed077e",
+      "name": "Replying to Poll name",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "46d189f0-e281-4756-8bae-5519f4e5b982",
+      "name": "TeenHUB",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "b8a6089d-429f-49f3-b686-5415dafa4f74",
+      "name": "UWI students",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 1
+    },
+    {
+      "uuid": "a9b0aee9-3926-4810-b30b-859e2902ef13",
+      "name": "Other channel",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 1
+    },
+    {
+      "uuid": "55fe87b8-3fba-4c3d-a646-279857b67568",
+      "name": "Service Project Not Yet U-Reporters",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "c249e4d0-806b-476f-a1e8-789b95a2de43",
+      "name": "Service Project",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 6
+    },
+    {
+      "uuid": "54b1e755-e337-4652-b41d-47cb985d5e23",
+      "name": "equality",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 9
+    },
+    {
+      "uuid": "57a80f6b-66f8-4bec-974d-391a4e745cf0",
+      "name": "Dengue Fever",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "9c500154-690c-4f83-84a1-dae3712fe2aa",
+      "name": "We-Change not yet U-Reporters",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "2e76029a-058e-459a-a63b-4245e664b503",
+      "name": "Dengue not yet U-Reporters",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "bef432e8-8c84-42a2-ab1c-aa7c53849482",
+      "name": "born",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "fd4d699a-c6bb-4b6e-a7ce-c2c09d9071f4",
+      "name": "Youth Council",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 7
+    },
+    {
+      "uuid": "77528b60-1071-4e77-a613-d8de32d8bd0c",
+      "name": "wechange",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 9
+    },
+    {
+      "uuid": "23710637-4731-4bc5-a506-6dbfb59a392f",
+      "name": "Jonathan Grant students",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 7
+    },
+    {
+      "uuid": "f68fab41-86ec-40c5-aff6-461693a6a2f3",
+      "name": "Digital Citizenship Recruitment",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "58473ff1-9286-4a3d-91c0-b2b1f7dc81d8",
+      "name": "SMS",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 5643
+    },
+    {
+      "uuid": "c7b68d97-17c2-4615-bd75-bc07b3952488",
+      "name": "UReport Females",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 17
+    },
+    {
+      "uuid": "ae1a525c-d840-48d7-8c6d-f03766ab4f1d",
+      "name": "UReport Youth",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 31
+    },
+    {
+      "uuid": "c7663289-6163-47e6-ac24-0f84bdc27603",
+      "name": "UReport Males",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 16
+    },
+    {
+      "uuid": "cb022ff4-4531-4a4c-aadc-ec40af1d4e03",
+      "name": "App U-Reporters",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 31
+    },
+    {
+      "uuid": "1f2ec8c9-5e95-478d-a616-641b03c55695",
+      "name": "Non-binary",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 73
+    },
+    {
+      "uuid": "c9add373-d26d-43f6-8d39-cf6a52f657b4",
+      "name": "Too Old",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 270
+    },
+    {
+      "uuid": "1c2c72d7-83ea-4997-ad22-5cf3f70f4814",
+      "name": "U-Reporters_NoParish",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "e364f04d-8379-4a46-823a-ca75a9b94478",
+      "name": "Parish",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "1782430d-a720-4aa1-9162-49777b165f69",
+      "name": "Twitter",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 169
+    },
+    {
+      "uuid": "863661ec-41f8-486f-8885-23563c27c61e",
+      "name": "Facebook",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 5403
+    },
+    {
+      "uuid": "7f878771-18ef-4bb8-b661-eb9b06d0744d",
+      "name": "U-Reporter_LocationGroupNeeded",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "8cf61949-3c2f-490b-9568-4d83735d4fbf",
+      "name": "WaitingForIntroPoll_Ureport",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 9872
+    },
+    {
+      "uuid": "93af0cea-20e9-4edf-ba23-208a6d6c7389",
+      "name": "U-Reporters Female",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 7033
+    },
+    {
+      "uuid": "0009c1e3-c4d8-4dc7-84ac-2d588ac47bd6",
+      "name": "U-Reporters Male",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 3437
+    },
+    {
+      "uuid": "ea9e67fe-75f3-4459-88ee-dad0c27b8e95",
+      "name": "U-Reporters Youth",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "78ad90fb-3461-4515-8782-90d96570cb3f",
+      "name": "U-Reporters Adolescents",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "19aa4f66-bb57-4e1e-8ac9-4300c650fe41",
+      "name": "Too Young",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 280
+    },
+    {
+      "uuid": "a4dbd1df-6d78-4c69-b6e1-d908b7e77ff3",
+      "name": "U-Reporters_NoRegion",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 3947
+    },
+    {
+      "uuid": "e5adce8d-8465-4cf7-b962-ffde63058594",
+      "name": "U-Reporters_NoGender",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 3624
+    },
+    {
+      "uuid": "5a45e971-d4fb-4d37-bc94-3aea1119ebb4",
+      "name": "U-Reporters_NoDistrict",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "e3713182-ef26-4f23-8ac9-2f9f697d659f",
+      "name": "U-Reporters_NoAge",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 3089
+    },
+    {
+      "uuid": "4dd7bc9c-6954-446e-93e4-908ac24de2f5",
+      "name": "U-Reporters",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 13826
+    },
+    {
+      "uuid": "c25dedc4-ddc9-4e48-a968-544369c62149",
+      "name": "Unsatisfied Customers",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "2d1c31ac-3cb7-4a40-a4cf-be65275331c8",
+      "name": "Survey Audience",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "546becc7-dc64-4f7b-bedd-cbd1dcbfd632",
+      "name": "Group Chat",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    }
+  ]
+}

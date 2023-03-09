@@ -1,0 +1,1104 @@
+{
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "uuid": "2220aa68-d8d7-4f04-9ac6-11b6110624a7",
+      "name": "quiz_template",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Be safe, win credit\n\nTake U-Report's {{1}}. {{2}}. To enter, reply YES or NO",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 2,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2023-02-09T11:46:56.713311Z",
+      "modified_on": "2023-02-09T11:46:56.713316Z"
+    },
+    {
+      "uuid": "2fbc3e4a-ea20-4abe-8186-0a1a663439fb",
+      "name": "safer_internet_day_2022",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Making online a safer space in '23\n\nHappy 2023 from U-Report 🎉! {{1}} Reply {{2}} or {{3}} to participate",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 3,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2023-01-04T14:11:28.033064Z",
+      "modified_on": "2023-01-04T14:11:28.033068Z"
+    },
+    {
+      "uuid": "785d8f10-6222-416f-b9fb-f93f1d1fde54",
+      "name": "pt_post_participation_survey",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Thanks for trying ParentText!\n\nDear *{{1}}* parent, we would really appreciate you completing our post-participation survey. 🗳️\n\n👉🏿 Please tap on the link and answer the questions in your browser, like you did at the start. Thanks! {{2}}",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 2,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-12-14T18:11:18.467258Z",
+      "modified_on": "2022-12-14T18:11:18.467260Z"
+    },
+    {
+      "uuid": "909e606d-4207-4015-b403-12adbc9ea06c",
+      "name": "parenttext_update_to_u_reporters",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "New family service by U-Report\n\nHi U-Reporter, we're hosting a service called {{1}} helping {{2}} 👨‍👩‍👧‍👦. \n\nTo get _{{3}}_ 📲, or refer a {{4}}, reply *{{5}}* or *{{6}}*.\n\nPartnering with UNICEF, NPSC and others",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 6,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-12-13T04:11:16.119884Z",
+      "modified_on": "2022-12-13T04:11:16.119886Z"
+    },
+    {
+      "uuid": "74b8f6c1-029a-4012-8e75-c6abc2d09226",
+      "name": "umatter_welcome_message_emojis_v2",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Welcome to the U-Matter chatline\n\nHi. *U-Matter* here. \n\nWe're a *free*, *confidential* & *anonymous* chatline for Jamaican youth, by the Ministry of Health and Wellness and UNICEF's U-Report. 🫶🏿\n\nPrivacy policy 👉🏿 https://bit.ly/umatterprivacypolicy\n\nTo chat 💬 with a counsellor, reply YES or NO",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 0,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-11-12T16:08:45.392736Z",
+      "modified_on": "2022-11-12T16:08:45.392742Z"
+    },
+    {
+      "uuid": "737144e5-57ec-4139-8bae-cb6d5b24fbf4",
+      "name": "umatter_welcome_message_emojis",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Welcome to the U-Matter chatline\n\nWe're a *free*, *confidential* & *anonymous* chatline for Jamaican youth, by the Ministry of Health and Wellness and UNICEF's U-Report. 🫶🏿\n\nPrivacy policy 👉🏿 https://bit.ly/umatterprivacypolicy\n\nTo chat 💬 with a counsellor, reply YES or NO",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 0,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-11-12T15:08:44.596921Z",
+      "modified_on": "2022-11-12T15:08:44.596926Z"
+    },
+    {
+      "uuid": "ebd22878-49c4-4fc6-8e12-a50771b6242f",
+      "name": "parenttext_service_disruption",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "ParentText is back with you\n\nSorry, our host *U-Report* 🇯🇲 {{1}}. Still want to receive more \"family tips at your fingertips\" 💬? Reply {{2}} to restart",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 2,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-11-11T23:08:45.099626Z",
+      "modified_on": "2022-11-11T23:08:45.099633Z"
+    },
+    {
+      "uuid": "0eec5122-63d6-4960-a610-6c9ab22989c1",
+      "name": "u_matter_disruption_service_restored",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "We apologise for the wait\n\n*U-Report* which hosts *U-Matter* was having a technical problem {{1}}. 😞\n\nNow we're back! Reply {{2}} to chat, free, anonymously & confidentially with a trained U-Matter counsellor. 💬",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 2,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-11-11T05:08:43.316663Z",
+      "modified_on": "2022-11-11T05:08:43.316670Z"
+    },
+    {
+      "uuid": "2186d438-7654-44be-a210-c6eb82cf1c82",
+      "name": "jyan_marketing_unhealthy_foods_v2",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Advertising Unhealthy Foods to Children\n\nU-Report is collaborating with {{1}} to {{2}} reply {{3}} or {{4}} to participate.",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 4,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-11-03T17:17:11.402916Z",
+      "modified_on": "2022-11-03T17:17:11.402921Z"
+    },
+    {
+      "uuid": "b8ec3caf-714a-4a35-86fc-80573ae94e52",
+      "name": "jyan_marketing_unhealthy_foods",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Marketing Unhealthy Foods to Children\n\nU-Report is collaborating with {{1}} to {{2}} reply {{3}} or {{4}} to participate.",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 4,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-11-03T16:17:15.151041Z",
+      "modified_on": "2022-11-03T16:17:15.151048Z"
+    },
+    {
+      "uuid": "258c3cfc-5975-4c89-9ab5-f78a1b8af5a1",
+      "name": "thanks_umatter_users_vid",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "*U-Matter* counsellors have now {{1}} Since today is {{2}}, pls remember we’re here for you. Tell a friend too ... just message us the word SUPPORT",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 2,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-10-07T14:24:29.052575Z",
+      "modified_on": "2022-10-07T14:24:29.052580Z"
+    },
+    {
+      "uuid": "83119b1a-3e92-4a7b-8ed7-3cf168ef2404",
+      "name": "thanks_umatter_users",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Thanks from the U-Matter team\n\n*U-Matter* counsellors have now {{1}} Since today is {{2}}, pls remember we’re here for you 🤗. Tell a friend too ... just message us the word SUPPORT",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 2,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-10-07T14:24:29.046955Z",
+      "modified_on": "2022-10-07T14:24:29.046959Z"
+    },
+    {
+      "uuid": "101ff6d8-57b9-45c6-aca7-643e026fc5f4",
+      "name": "announcement_umatter_ureporters",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Free, anonymous chat counselling\n\n*U-Matter*, the mental health chatline we established with the *Ministry of Health and Wellness*, has now provided over 1,000 chat counselling sessions. Message us the word SUPPORT to be connected with a trained counsellor (not a 🤖).",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 0,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-10-07T14:24:29.041101Z",
+      "modified_on": "2022-10-07T14:24:29.041106Z"
+    },
+    {
+      "uuid": "1b32180f-0d6b-4a7c-b73b-8ae2a0f31787",
+      "name": "announcement_umatter_ureporters_vid",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "*U-Matter*, the mental health chatline we established with the *Ministry of Health and Wellness*{{1}}. Message us the word SUPPORT to be connected with a trained counsellor (not a 🤖).",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 1,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-10-07T14:24:29.029951Z",
+      "modified_on": "2022-10-07T14:24:29.029959Z"
+    },
+    {
+      "uuid": "09639995-4a78-4b2a-868e-a04fd681e06c",
+      "name": "jyan_nutrition_policy_v2",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Healthy Schools, Healthy YOUth\n\nU-Report is collaborating with {{1}} to {{2}}. Reply {{3}} or {{4}} to participate",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 4,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-09-23T00:24:17.239639Z",
+      "modified_on": "2022-09-23T00:24:17.239647Z"
+    },
+    {
+      "uuid": "a20e1443-fe2c-4b33-a644-71457e03d51e",
+      "name": "jyan_nutrition_policy",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Help change schools policy\n\nU-Report is collaborating with {{1}} to {{2}}. Reply {{3}} or {{4}} to participate",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 4,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-09-21T01:24:18.099983Z",
+      "modified_on": "2022-09-21T01:24:18.099988Z"
+    },
+    {
+      "uuid": "2d82d55e-48a8-4bb0-a5ca-58e16754a3ce",
+      "name": "umatter_wait_apology",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "U-Matter apologizes for the wait\n\nWe hope that you are OK today. We know that you are waiting on one of our counsellors to reply. Our team is working to fix a technical problem disrupting the U-Matter mental health chatline service and aim to connect with you one of our counsellors ASAP.",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 0,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-08-15T17:12:46.923390Z",
+      "modified_on": "2022-08-15T17:12:46.923395Z"
+    },
+    {
+      "uuid": "3f7b5eb2-d2c2-484b-9911-bed1859aab86",
+      "name": "u_matter_service_restored",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "U-Matter chatline back in service\n\nWe fixed the technical issue that was preventing messages getting through. Please reply {{1}} or {{2}} to chat with a U-Matter counsellor.",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 2,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-08-15T17:12:46.905382Z",
+      "modified_on": "2022-08-15T17:12:46.905387Z"
+    },
+    {
+      "uuid": "91f8c9d2-c124-4cfc-b972-2e5bae81305a",
+      "name": "u_matter_apology",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "U-Matter apologizes for the wait\n\nWe know you are waiting to chat with a U-Matter counsellor, and we hope that you are OK. We are urgently working to fix the technical issue and connect you with our trained counsellors ASAP.",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 0,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-08-15T17:12:46.895902Z",
+      "modified_on": "2022-08-15T17:12:46.895907Z"
+    },
+    {
+      "uuid": "4a403870-49b4-405c-9213-05c2fabd8aeb",
+      "name": "u_matter_error",
+      "translations": [],
+      "created_on": "2022-08-12T21:12:42.198689Z",
+      "modified_on": "2022-08-12T21:12:42.198698Z"
+    },
+    {
+      "uuid": "6286bf8c-f533-4823-9e2d-0cfddb63ee9f",
+      "name": "mohw_mental_health",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Ministry of Health & Wellness with U-Report\n\nThe Ministry of Health and Wellness is asking U-Reporters {{1}}. To participate, reply {{2}} or {{3}}.",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 3,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-08-03T15:26:14.381929Z",
+      "modified_on": "2022-08-03T15:26:14.381937Z"
+    },
+    {
+      "uuid": "2eb58c1c-17cf-4a57-a69f-5d94ba020b7e",
+      "name": "7_day_reminder_v8",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "ParentText is still here for you\n\nWaah Gwaan! We hope you are OK! Reply {{1}} or {{2}}.",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 2,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-08-03T15:26:14.328392Z",
+      "modified_on": "2022-08-03T15:26:14.328400Z"
+    },
+    {
+      "uuid": "7a66ea80-2fed-427f-a35e-89211174af89",
+      "name": "7_day_reminder_v7",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Waah Gwaan! *ParentText* is still here for you. We hope you are OK! Reply {{1}} or {{2}}.",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 2,
+          "status": "rejected",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-08-03T15:26:14.320357Z",
+      "modified_on": "2022-08-03T15:26:14.320365Z"
+    },
+    {
+      "uuid": "832c0656-fb20-4312-a72a-d545a14d8f1b",
+      "name": "7_day_reminder_v6",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Waah Gwaan! *ParentText* is still here for you. We hope you are OK! Reply {{1}} to continue with ParentText or to {{2}} to exit ParentText.",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 2,
+          "status": "rejected",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-08-03T15:26:14.308487Z",
+      "modified_on": "2022-08-03T15:26:14.308495Z"
+    },
+    {
+      "uuid": "55ab4684-3c25-495f-ad20-8155a3a2e341",
+      "name": "7_day_reminder_v5",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Waah Gwaan! *ParentText* is still here for you. We hope you are OK! To continue with ParentText, reply {{1}} or {{2}} to exit.",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 2,
+          "status": "rejected",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-08-03T15:26:14.297301Z",
+      "modified_on": "2022-08-03T15:26:14.297309Z"
+    },
+    {
+      "uuid": "6626aa32-5f67-4525-94a4-63dc2194b146",
+      "name": "new_sevice_announcement_v3",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "U-Report launches family service\n\nHi U-Reporter, we're hosting a new service called {{1}} to help {{2}}. Are you a {{3}} or know a {{4}} who would like receive {{5}}? Please reply {{6}} or {{7}}.\n\nPartnering with UNICEF, NPSC and others",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 7,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-07-17T11:53:18.546678Z",
+      "modified_on": "2022-07-17T11:53:18.546686Z"
+    },
+    {
+      "uuid": "2a8b95c4-f41c-47d4-89d5-1c40c34949a6",
+      "name": "7_day_reminder_v4",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "ParentText is still here for you\n\nHello, it's been a week since we heard from you. If you want to continue with *ParentText* via *U-Report*, please reply {{1}} or {{2}} for more info/options. 👍🏿",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 2,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-07-15T20:53:10.536070Z",
+      "modified_on": "2022-07-15T20:53:10.536075Z"
+    },
+    {
+      "uuid": "cac1219a-1b04-432c-8473-50491ffe0179",
+      "name": "7_day_reminder_v3",
+      "translations": [],
+      "created_on": "2022-07-15T19:53:09.365514Z",
+      "modified_on": "2022-07-15T19:53:09.365519Z"
+    },
+    {
+      "uuid": "5a87e337-a90c-47fc-8d09-ca6d14d2fa3d",
+      "name": "7_day_reminder_v2",
+      "translations": [],
+      "created_on": "2022-07-15T17:53:09.808601Z",
+      "modified_on": "2022-07-15T17:53:09.808606Z"
+    },
+    {
+      "uuid": "bc8f0425-796d-4651-abe1-312e3f6065d8",
+      "name": "7_day_reminder",
+      "translations": [],
+      "created_on": "2022-07-14T22:53:09.066863Z",
+      "modified_on": "2022-07-14T22:53:09.066868Z"
+    },
+    {
+      "uuid": "972a8a78-02f4-4f5a-928e-85fc7ba9496c",
+      "name": "pt_one_week_reminder_v2",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "ParentText is here for you\n\n👋 We haven't heard from you in a week, but like family we are still here for you. To continue receiving \"family tips at your fingertips\" with ParentText, reply {{1}}.",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 1,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-07-05T21:53:04.342157Z",
+      "modified_on": "2022-07-05T21:53:04.342162Z"
+    },
+    {
+      "uuid": "9bdce3b6-bb35-4845-8215-e2150871fce2",
+      "name": "umatter_rejoin_parenttext",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Want some more parenting tips?\n\nWould you like to start receiving {{1}} \nReply {{2}} or {{3}}.",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 3,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-05-13T21:12:55.116895Z",
+      "modified_on": "2022-05-14T17:57:57.519885Z"
+    },
+    {
+      "uuid": "15802e32-f6d3-4944-b0fe-fe3b9b7c6a38",
+      "name": "parenttext_feedback_welcome",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "ParentText wants to hear from U\n\nHi! We would love to hear how you are doing! Please reply {{1}} to continue.",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 1,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-05-13T21:42:55.742153Z",
+      "modified_on": "2022-05-14T17:27:56.402194Z"
+    },
+    {
+      "uuid": "8e7d2c8a-a244-4144-8e5c-9b80c6fb3e42",
+      "name": "umatter_support_again_or_join_ureport",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Bye for now from U-Matter. TTYL\n\nMessage us the word {{1}} anytime you want to chat with a U-Matter counsellor again. Also, to join U-Report, message us the word {{2}}.",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 2,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-05-13T21:27:54.977581Z",
+      "modified_on": "2022-05-13T21:27:54.977587Z"
+    },
+    {
+      "uuid": "b6938683-e079-4e09-a298-1bea731647e9",
+      "name": "umatter_assistance_again_v2",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "U-Matter is here when U need us\n\nMessage us the word {{1}} anytime you want {{2}}.",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 2,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-05-13T21:27:54.954005Z",
+      "modified_on": "2022-05-13T21:27:54.954010Z"
+    },
+    {
+      "uuid": "c9cc9abe-1771-4d8d-a88e-cd50f656d4f8",
+      "name": "parenttext_timeout",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Want more parenting tips?\n\nYour chat has timed out. Message us the word {{1}} anytime you want to {{2}}.",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 2,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-05-13T21:27:54.946084Z",
+      "modified_on": "2022-05-13T21:27:54.946090Z"
+    },
+    {
+      "uuid": "ea36fe6c-4af6-476b-b5e3-12da3eca65e8",
+      "name": "umatter_timeout_satisfaction",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Goodbye for now from U-Matter\n\nYour chat has timed out. {{1}}, send us the word {{2}}.",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 2,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-05-13T20:57:58.275055Z",
+      "modified_on": "2022-05-13T20:57:58.275063Z"
+    },
+    {
+      "uuid": "5cac4431-60e9-43d9-a086-b8e7944db819",
+      "name": "unicef_wants_to",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Update from U-Report Jam\n\nHi U-Reporter, UNICEF wants to {{1}}. To participate, reply {{2}} or {{3}}",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 3,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-04-25T14:27:27.383365Z",
+      "modified_on": "2022-04-26T14:42:24.784777Z"
+    },
+    {
+      "uuid": "52c959b9-ff9a-47b4-957b-9d0d75cb5103",
+      "name": "2022_new_activity_v3",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Update from U-Report Jamaica\n\nHi. To participate in our new activity about {{1}}, reply {{2}} or {{3}}",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 3,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-04-15T09:57:11.801959Z",
+      "modified_on": "2022-04-15T09:57:11.801968Z"
+    },
+    {
+      "uuid": "f8d9859a-6205-4942-ba90-ca9055efd9ec",
+      "name": "2022_new_activity",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Update from U-Report Jamaica\n\nHi. To participate in our new activity about {{1}}, reply {{2}} or {{3}}",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 3,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-04-15T09:42:12.812553Z",
+      "modified_on": "2022-04-15T09:42:12.812558Z"
+    },
+    {
+      "uuid": "73960406-a6e2-4bda-a421-200d9940d5ac",
+      "name": "umatter_new_user_satisfaction",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "We welcome your feedback\n\nThanks for using U-Matter. {{1}} reply {{2}} or {{3}}",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 3,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-03-29T17:56:40.668880Z",
+      "modified_on": "2022-03-29T17:56:40.668885Z"
+    },
+    {
+      "uuid": "4694a264-93c7-4f7f-8cbe-796a374f6b8c",
+      "name": "u_matter_user_satisfaction",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "We welcome your feedback\n\nThanks for using U-Matter. {{1}} reply YES or NO",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 1,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-03-25T09:26:33.804689Z",
+      "modified_on": "2022-03-25T09:41:33.873304Z"
+    },
+    {
+      "uuid": "65f72f8b-e764-4436-bf31-e9acd99bd830",
+      "name": "umatter_welcome_message",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Welcome to U-Matter\n\nHi. You're chatting with U-Matter, a confidential service to support young Jamaicans, by the Ministry of Health and Wellness and UNICEF's U-Report.\n\nPrivacy policy: {{1}}\n\nTo chat with a counsellor, reply {{2}} or {{3}}",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 3,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-03-25T02:11:37.247204Z",
+      "modified_on": "2022-03-25T02:11:37.247212Z"
+    },
+    {
+      "uuid": "d5e0cb6a-7210-458c-89c7-8e8ad68bd8d9",
+      "name": "umatter_welcome",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Welcome to U-Matter\n\nHi. You're chatting with U-Matter, a confidential service to support young Jamaicans, by the Ministry of Health and Wellness and UNICEF's U-Report.\n\nPrivacy policy: https://bit.ly/umatterprivacypolicy\n\nTo chat with a counsellor, reply YES or NO",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 0,
+          "status": "rejected",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-03-25T02:11:37.223835Z",
+      "modified_on": "2022-03-25T02:11:37.223842Z"
+    },
+    {
+      "uuid": "af30effc-be51-4528-8c5a-fe07182aa872",
+      "name": "umatter_post_counselling",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "What more U-Matter can do for you?\n\nThanks for using U-Matter. {{1}} reply YES or NO",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 1,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2022-03-24T19:31:04.414091Z",
+      "modified_on": "2022-03-24T19:31:04.414098Z"
+    },
+    {
+      "uuid": "afc3b6fa-23ec-46f3-8403-6f8b99dcfd9b",
+      "name": "_world_childrens_day_2021_v3",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Your voice matters and UNICEF wants to know {{1}}.\n\nTo participate reply {{2}} or {{3}}\n\nU-Report Jamaica",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 3,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2021-11-18T19:09:20.527040Z",
+      "modified_on": "2021-11-18T19:09:20.527048Z"
+    },
+    {
+      "uuid": "5ec8ecf5-b4e4-44a3-b261-a748190d2b71",
+      "name": "world_childrens_day_2021_v2",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Your voice matters and UNICEF wants to know {{1}}.\n\nSend {{2}} to start.\n\nU-Report Jamaica",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 2,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2021-11-18T15:49:02.605663Z",
+      "modified_on": "2021-11-18T15:49:02.605671Z"
+    },
+    {
+      "uuid": "bda56cca-68aa-4318-a61b-2335126ccf5a",
+      "name": "unicef_worldchildrenday_2021_",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Your voice matters and UNICEF wants to know {{1}}.\n\nSend {{2}} to start.\n\nU-Report Jamaica",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 2,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2021-11-18T15:49:02.585506Z",
+      "modified_on": "2021-11-18T15:49:02.585514Z"
+    },
+    {
+      "uuid": "a83e96ed-b2a7-4007-8ca8-c59abf8b73ef",
+      "name": "unicef_ureportjamaical_mentalhealthbot_2021_09_v2",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "#OnMyMind\n\nHi {{1}}. {{2}} Would you like to receive {{3}}? Reply {{4}} or {{5}}.\n\nU-Report Jamaica",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 5,
+          "status": "rejected",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2021-10-09T18:00:17.589960Z",
+      "modified_on": "2021-10-09T18:15:18.510776Z"
+    },
+    {
+      "uuid": "21e30d31-0ac6-40a7-b869-204374a2d904",
+      "name": "unicef_ureportjamaica_mentalhealthbot_2021_09_v3_no_buttons",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "#OnMyMind\n\nHi {{1}}. {{2}} Would you like to receive {{3}}? Reply {{4}} or {{5}}.\n\nFrom U-Report Jamaica",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 5,
+          "status": "rejected",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2021-10-09T18:00:17.581428Z",
+      "modified_on": "2021-10-09T18:15:18.503879Z"
+    },
+    {
+      "uuid": "ecadd838-5523-4f1e-9843-736813b0b814",
+      "name": "unicef_ureportjamaica_mentalhealthbot_2021_09",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "#OnMyMind\n\nHi {{1}}. Would you like to receive {{2}}? Reply {{3}} or {{4}}.\n\nU-Report Jamaica",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 4,
+          "status": "rejected",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2021-10-09T18:00:17.568498Z",
+      "modified_on": "2021-10-09T18:15:18.496399Z"
+    },
+    {
+      "uuid": "1054bacb-40a6-4458-92bd-aa045ff5d358",
+      "name": "unicef_ureportglobal_mentalhealthbot_2021_09",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "#OnMyMind\n\nHello {{1}}. Would you like to receive {{2}}? Reply {{3}} or {{4}}.\n\nU-Report Jamaica",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 4,
+          "status": "rejected",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2021-10-08T14:15:14.400841Z",
+      "modified_on": "2021-10-08T21:30:16.566857Z"
+    },
+    {
+      "uuid": "a7c52dfa-b215-404f-952a-8f6d8f3d9a0c",
+      "name": "final_chatline_reminder",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "We hope everything is OK?\n\nIt's been {{1}} days since we heard from you. While we must close this chat due to inactivity, you can always reconnect with a U-Matter counsellor by sending us the word *{{2}}*",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 2,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2021-09-14T18:29:30.296037Z",
+      "modified_on": "2021-09-14T18:29:30.296045Z"
+    },
+    {
+      "uuid": "518db763-9e67-490a-9853-f638db5d95d4",
+      "name": "chatline_reminder_46_hours",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "We hope everything is OK?\n\nIt's been {{1}} days since we heard from you. While we must close this conversation due to inactivity, you are always welcome to return for support. To reconnect with a counsellor, send us the word *{{2}}*",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 2,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2021-08-31T19:14:03.040761Z",
+      "modified_on": "2021-09-08T02:44:16.240775Z"
+    },
+    {
+      "uuid": "f78e0365-1b02-495e-a9b2-d9f60ec87f9c",
+      "name": "chatline_reminder_1_day",
+      "translations": [],
+      "created_on": "2021-08-31T19:14:03.031015Z",
+      "modified_on": "2021-08-31T19:29:03.249844Z"
+    },
+    {
+      "uuid": "c328d2c7-70a8-44a2-9f3f-69363c90392e",
+      "name": "chatline_reminder_23_hours",
+      "translations": [],
+      "created_on": "2021-08-30T21:59:03.201260Z",
+      "modified_on": "2021-08-31T07:29:02.892098Z"
+    },
+    {
+      "uuid": "b37595e6-e79b-4fb2-930a-afd0259a54bb",
+      "name": "chatline_reminder_69_hours",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "We hope everything is OK?\n\nIt's been 3 days since we heard from you. While we must close this case due to inactivity, you are always welcome to return for support. To reconnect with a counsellor, send us the word *{{1}}*",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 1,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2021-08-30T22:14:03.073960Z",
+      "modified_on": "2021-08-30T22:14:03.073965Z"
+    },
+    {
+      "uuid": "a6424dfd-04c4-45ef-b85c-cc285c308ab6",
+      "name": "announcement_update_v2",
+      "translations": [],
+      "created_on": "2021-08-26T19:58:55.934292Z",
+      "modified_on": "2021-08-26T19:58:55.934297Z"
+    },
+    {
+      "uuid": "7f530b30-c33a-4138-abb6-0319901308bb",
+      "name": "announcement_update",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Update from U-Report Jamaica\n\nHi. {{1}}, reply YES or NO",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 1,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2021-08-26T19:43:55.205086Z",
+      "modified_on": "2021-08-26T19:43:55.205091Z"
+    },
+    {
+      "uuid": "1de666fa-a609-4496-937a-fa912f984a9f",
+      "name": "new_message_template",
+      "translations": [],
+      "created_on": "2021-08-20T21:28:46.129476Z",
+      "modified_on": "2021-08-24T11:13:52.311488Z"
+    },
+    {
+      "uuid": "4d36e686-a8ad-4e55-a667-7f7e2c69ffc1",
+      "name": "2021_update_new_activity_v2",
+      "translations": [
+        {
+          "language": "eng",
+          "content": "Update from U-Report Jamaica\n\nHi. To participate in our new activity about {{1}}, reply YES or NO",
+          "namespace": "14940e71_253b_1ccf_e93c_b004f4e87dff",
+          "variable_count": 1,
+          "status": "approved",
+          "channel": {
+            "uuid": "b1fcb800-a85b-494f-8f80-cae86319a10d",
+            "name": "WhatsApp: +18768384897"
+          }
+        }
+      ],
+      "created_on": "2021-02-25T16:36:52.553816Z",
+      "modified_on": "2021-02-25T16:36:52.553821Z"
+    },
+    {
+      "uuid": "11e116ae-79ac-467b-8aec-bab26c3b6456",
+      "name": "report_2021_update",
+      "translations": [],
+      "created_on": "2021-02-08T14:06:00.409181Z",
+      "modified_on": "2021-02-08T14:06:00.409187Z"
+    },
+    {
+      "uuid": "bee07c46-9659-4482-9a53-bbe8df1797c1",
+      "name": "wad_2020_alert_update",
+      "translations": [],
+      "created_on": "2020-11-27T10:52:02.858520Z",
+      "modified_on": "2020-11-27T10:52:02.858525Z"
+    },
+    {
+      "uuid": "a0e53dfa-f946-4bf3-9df1-b9489cf2ae99",
+      "name": "world_aids_day_2020",
+      "translations": [],
+      "created_on": "2020-11-26T20:22:02.552249Z",
+      "modified_on": "2020-11-27T01:07:03.458120Z"
+    },
+    {
+      "uuid": "78b222df-3875-4327-aaeb-716c20cd24e3",
+      "name": "unicef_u_report_jamaica_covid19_new_activity",
+      "translations": [],
+      "created_on": "2020-09-16T13:12:31.743152Z",
+      "modified_on": "2020-09-18T19:42:34.610095Z"
+    },
+    {
+      "uuid": "3996842f-bc26-4cd0-8f53-2c185776b13a",
+      "name": "unicef_jamaica_accountupdate_2020_03_12",
+      "translations": [],
+      "created_on": "2020-04-11T00:10:03.571549Z",
+      "modified_on": "2020-04-14T15:34:27.513799Z"
+    }
+  ]
+}

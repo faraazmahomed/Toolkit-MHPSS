@@ -1,0 +1,60 @@
+{
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "uuid": "57a9dc72-7546-4c56-b2a9-29ff382df350",
+      "name": "WhatsApp: +558231420933",
+      "address": "+558231420933",
+      "country": "BR",
+      "device": null,
+      "last_seen": "2022-10-25T14:33:46.129860Z",
+      "created_on": "2022-10-25T14:33:46.129185Z"
+    },
+    {
+      "uuid": "7b67e5ba-65c1-4f00-a7bc-5886f21fcab3",
+      "name": "Weni Web Chat - #2586",
+      "address": "Weni Web Chat - #2586",
+      "country": null,
+      "device": null,
+      "last_seen": "2022-10-18T20:24:54.644905Z",
+      "created_on": "2022-10-18T20:24:54.644261Z"
+    },
+    {
+      "uuid": "c5f46994-70ee-4544-bd85-844ba51ebff6",
+      "name": "Weni Web Chat - #1767",
+      "address": "Weni Web Chat - #1767",
+      "country": null,
+      "device": null,
+      "last_seen": "2022-08-16T17:47:45.926362Z",
+      "created_on": "2022-08-16T17:47:45.925901Z"
+    },
+    {
+      "uuid": "00265057-8c76-41fe-9015-547d13ba2d2a",
+      "name": "Weni Web Chat - #1767",
+      "address": "Weni Web Chat - #1767",
+      "country": null,
+      "device": null,
+      "last_seen": "2022-08-16T17:47:43.413112Z",
+      "created_on": "2022-08-16T17:47:43.412411Z"
+    },
+    {
+      "uuid": "b618f5d7-5673-4d52-a70f-d5ccad803de9",
+      "name": "WhatsApp: +558231420933",
+      "address": "+558231420933",
+      "country": "BR",
+      "device": null,
+      "last_seen": "2022-08-16T17:46:28.850367Z",
+      "created_on": "2022-08-16T17:46:28.849083Z"
+    },
+    {
+      "uuid": "7e9ce0b3-2e96-41de-aa47-7eddf9597a0a",
+      "name": "nepal",
+      "address": "nepal_test_bot",
+      "country": null,
+      "device": null,
+      "last_seen": "2022-08-16T17:45:52.528275Z",
+      "created_on": "2022-08-16T17:45:52.527758Z"
+    }
+  ]
+}

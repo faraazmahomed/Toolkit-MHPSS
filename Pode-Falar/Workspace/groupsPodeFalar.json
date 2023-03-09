@@ -1,0 +1,294 @@
+{
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "uuid": "68951f0f-abd8-4ddd-8597-57012cac9a95",
+      "name": "[Oficina] Convites aceitos",
+      "query": "convite_oficina = \"Sim\" AND oficina_wpp != \"\"",
+      "status": "ready",
+      "system": false,
+      "count": 20
+    },
+    {
+      "uuid": "0ddc5a16-8ea1-454f-8a61-6bfc15fc6bf4",
+      "name": "[Pesquisa Quanti] Convites aceitos",
+      "query": "pesquisa_quanti = \"Sim\"",
+      "status": "ready",
+      "system": false,
+      "count": 59
+    },
+    {
+      "uuid": "83fde28c-9ebb-4f1b-be34-4d11ac0e3d2a",
+      "name": "[Oficina] Convites recusados",
+      "query": "convite_oficina = \"Não\"",
+      "status": "ready",
+      "system": false,
+      "count": 42
+    },
+    {
+      "uuid": "83f7772a-b049-48a1-bcd6-02f373dcdfa6",
+      "name": "Respondeu Pesquisa Quanti",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 44
+    },
+    {
+      "uuid": "ca0ca117-c7a0-48ec-83aa-89c3b19ad7e5",
+      "name": "Inscricao Realizada",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 20
+    },
+    {
+      "uuid": "a53034db-48f4-48e2-b3b9-4e44c967b0e0",
+      "name": "Guests Vencidos (Prontuário)",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 500
+    },
+    {
+      "uuid": "23f0ed8f-dd01-49e6-9cda-80ec5f062884",
+      "name": "Pega URNs",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "44a3988b-0a99-4777-b449-3142486f6882",
+      "name": "Open Tickets",
+      "query": "tickets > 0",
+      "status": "ready",
+      "system": true,
+      "count": 0
+    },
+    {
+      "uuid": "5a3e2402-4e90-4ad5-9fb8-2132654eac6d",
+      "name": "Usuário apto para Prontuário",
+      "query": "horario_final_de_atendimento != \"\"",
+      "status": "ready",
+      "system": false,
+      "count": 1238
+    },
+    {
+      "uuid": "4a01163a-d032-4f26-a604-ee1517d085d9",
+      "name": "Guest não interagiu",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 47
+    },
+    {
+      "uuid": "75be0d4a-9afc-4227-981d-d52a15f6871b",
+      "name": "Teste abertura de salas",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 2
+    },
+    {
+      "uuid": "9de55615-3fc2-43f6-b71a-8464a91dcf32",
+      "name": "Consulta Atendente Rocketchat",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 1
+    },
+    {
+      "uuid": "281b3e5f-ee9d-4445-88a5-0d3ed74bb3cd",
+      "name": "Atendente Rocketchat",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 45
+    },
+    {
+      "uuid": "d32b62b3-3bbe-4d15-8612-649314742d16",
+      "name": "Falha atualizar rocketchat prontuário",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 2
+    },
+    {
+      "uuid": "5094c803-7f0b-474b-aba9-7d6c9d520c9f",
+      "name": "Falha remover contato prontuário",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 42
+    },
+    {
+      "uuid": "a2159785-9dd3-41ea-8167-6d177e8a7806",
+      "name": "Satisfeito",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 7188
+    },
+    {
+      "uuid": "e19d9c37-2db3-49f9-a884-ef730848500b",
+      "name": "Responder Prontuário",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 105
+    },
+    {
+      "uuid": "d85bf5b3-37e8-49c3-ae29-9dfe68745a0f",
+      "name": "Fila",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 15954
+    },
+    {
+      "uuid": "3e04ccc6-7ea3-46fa-92c3-756a1788518e",
+      "name": "Fora da fila",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 277
+    },
+    {
+      "uuid": "e49074df-01ea-4e81-bb8c-381733331443",
+      "name": "Indicado para Rocket Chat",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 125
+    },
+    {
+      "uuid": "03df12df-9fa5-4176-8fb7-358bb66c0af0",
+      "name": "Teste Filas",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 21
+    },
+    {
+      "uuid": "d2c6848e-57de-45c3-a421-05065312ba49",
+      "name": "Atendimento Humano",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 7
+    },
+    {
+      "uuid": "04badfe3-e058-4dea-baf7-709366d8a0b3",
+      "name": "Ceará",
+      "query": "estado = \"Ceará\"",
+      "status": "ready",
+      "system": false,
+      "count": 5154
+    },
+    {
+      "uuid": "09b94308-135b-4297-b5f1-7caf258a80c0",
+      "name": "Falha excluir contato - RapidPro",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 0
+    },
+    {
+      "uuid": "e2853db2-b09d-4a30-b43a-e6637bcbd9c2",
+      "name": "Falha excluir contato - Backend",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 833
+    },
+    {
+      "uuid": "ae41af06-c3d0-4a2e-b8ec-3d0c1416d61b",
+      "name": "bot",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 79107
+    },
+    {
+      "uuid": "3101fd24-49ca-4807-951a-3cb238eb67e3",
+      "name": "Urgente",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 16219
+    },
+    {
+      "uuid": "47d0fe5d-028b-4373-92d1-faa291582523",
+      "name": "Sucesso enviar depoimento",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 403
+    },
+    {
+      "uuid": "ee026aee-90a0-472a-ba9a-ac8e5c0dfa8d",
+      "name": "Sucesso criar contato",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 45750
+    },
+    {
+      "uuid": "ee2b37f7-af0e-491e-a71d-62a3a94f7690",
+      "name": "Sucesso atualizar avatar",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 420
+    },
+    {
+      "uuid": "b6b4bd61-13d3-4d12-bf8f-bc16bd210dfe",
+      "name": "Falha enviar depoimento",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 34
+    },
+    {
+      "uuid": "54209fb2-52bf-4a93-a2f6-8053899f7325",
+      "name": "Falha criar contato",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 2254
+    },
+    {
+      "uuid": "d5f8c408-da59-4ef6-a1ad-2faf162fcc6b",
+      "name": "Falha atualizar avatar",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 15
+    },
+    {
+      "uuid": "c9632331-ea98-4061-a6cb-6ccde737cb8b",
+      "name": "Dados completos",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 48000
+    },
+    {
+      "uuid": "e7c84632-c24e-4156-bb26-bedb70f464dd",
+      "name": "Buscou ajuda",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 29375
+    },
+    {
+      "uuid": "59d22d7b-3e71-46dd-b5c0-99920ddb8523",
+      "name": "Conversa Finalizada",
+      "query": null,
+      "status": "ready",
+      "system": false,
+      "count": 77246
+    }
+  ]
+}
