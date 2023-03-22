@@ -41,6 +41,9 @@ Select the file you **want to upload**¹ and then click on the **Import** button
 
 Please wait a few moments, and soon the files will have been imported.
 
+> Pay attention to the warning above! Check the flows names before importing if you don't want them to be overwritten.
+
+
 ## What will be imported?
 + Flows;
 + Groups;
