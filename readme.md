@@ -1,8 +1,8 @@
 # What is this repository?
 
-> This repository contains files that constitute the Beta Pilot, Nepal, Pode Falar, and U-Matter projects, which are separated into two folders. The 'Workspace' folder includes specifications, configurations, and the foundation that forms the flows of the project's components. The 'AI' folder provides information about the artificial intelligence used, along with their respective datasets.
+> This repository contains files that constitute the MHPSS ESARO, Nepal, Pode Falar, and U-Matter projects, which are separated into two folders. The 'Workspace' folder includes specifications, configurations, and the foundation that forms the flows of the project's components. The 'AI' folder provides information about the artificial intelligence used, along with their respective datasets.
 
-## All files are in JSON. What is JSON?
+## All files are in JSON, while texts are in Excel. What is JSON?
 
 > JSON stands for JavaScript Object Notation and it's a lightweight format for storing and transporting data. JSON is "self-describing" and easy to understand.
 
